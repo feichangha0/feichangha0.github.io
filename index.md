@@ -1,2 +1,2 @@
 # this is index
-[neewfiiile](newfile)
+[good links](links)
