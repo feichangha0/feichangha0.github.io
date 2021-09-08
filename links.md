@@ -2,6 +2,7 @@
 
 
 ## temporary mails
+`confirmation by mail should have died in the 90s`
 
 - temp-mail.org - 
 - throwawaymail.com - 
@@ -13,13 +14,16 @@
 - yopmail.com - 
 
 ## infosec blogs
+`read, become smarter`
 
 - jhalon.github.io - 
 - blog.g0tmi1k.com - 
 - netsec.ws - 
+- medium.com/@PenTest_duck
 
 
 ## other
+`undescribable, uncategorized or both`
 
 - shodan.io - search engine for the internet of everything 
 - whois.com - get domain and owner info
