@@ -1,2 +1,2 @@
 # this is index
-[neewfiiile](newfile.md)
+[neewfiiile](newfile)
