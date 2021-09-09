@@ -4,7 +4,7 @@
 
 ### resources
 - exploit-db.com - exploit database
-- gtfobins.github.io - a curated list of Unix binaries that can be used to bypass local security restrictions
+- gtfobins.github.io - a list of unix binaries to bypass local security restrictions
 - crackstation.net - online hash cracking
 - shodan.io - search engine for the internet of everything 
 - searchdns.netcraft.com - get domain + subdomain + owner info
@@ -40,10 +40,10 @@
 
 ### channels
 ### playlists
-- [GitHub Pages and Jekyll by Bill Raymond - build a github pages website like this one](https://www.youtube.com/playlist?list=PLWzwUIYZpnJuT0sH4BN56P5oWTdHJiTNq)
+- [GitHub Pages and Jekyll by Bill Raymond](https://www.youtube.com/playlist?list=PLWzwUIYZpnJuT0sH4BN56P5oWTdHJiTNq) - build a github pages website like this one
 ### videos
-- [How to Make Your Own VPN & Configure it For Maximum Privacy by zSecurity - openvpn on linode](https://www.youtube.com/watch?v=rXwJwubqVmI)
-- [Expose Local Services To The Internet With 1 COMMAND! by zSecurity - `ssh -R`](https://www.youtube.com/watch?v=111ZDMKVTL4)
+- [How to Make Your Own VPN & Configure it For Maximum Privacy by zSecurity](https://www.youtube.com/watch?v=rXwJwubqVmI) - openvpn on linode
+- [Expose Local Services To The Internet With 1 COMMAND! by zSecurity](https://www.youtube.com/watch?v=111ZDMKVTL4) - `ssh -R`
 
 <br>
 
