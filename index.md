@@ -1,7 +1,8 @@
 # this is index
 
 ## <=* _infosec_ *=>
-### resources `something funny`
+
+### resources
 - exploit-db.com - exploit database
 - gtfobins.github.io - a curated list of Unix binaries that can be used to bypass local security restrictions
 - crackstation.net - online hash cracking
@@ -12,22 +13,21 @@
 - gchq.github.io/cyberchef - string conversion, encoding/decoding
 - maltronics.com - hardware for bad intentions
 
-### tools `don't reinvent the wheel`
+### tools
 - github.com/secureauthcorp/impacket - 
 - github.com/pentestmonkey/php-reverse-shell - 
 - github.com/Hackplayers/evil-winrm - 
 - github.com/carlospolop/PEASS-ng - 
 - github.com/maurosoria/dirsearch - 
 
-### cheatsheets `life isn't an exam`
+### cheatsheets
 - medium.com/@PenTest_duck/almost-all-the-ways-to-file-transfer-1bd6bf710d65 - file transfer methods
 - adamtheautomator.com/powershell-download-file - download files using powershell
 - netsparker.com/blog/web-security/sql-injection-cheat-sheet - sql injection
 - fuzzysecurity.com/tutorials/16.html - windows privilege escalation fundamentals
 - blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/ - basic linux privilege escalation
 
-
-### blogs `read, become smarter`
+### blogs
 - jhalon.github.io - 
 - blog.g0tmi1k.com - 
 - netsec.ws - 
@@ -39,13 +39,14 @@
 
 ### channels
 ### playlists
+- [GitHub Pages and Jekyll by Bill Raymond - build a github pages website like this one](https://www.youtube.com/playlist?list=PLWzwUIYZpnJuT0sH4BN56P5oWTdHJiTNq)
 ### videos
 
 
 <br>
 
 ## <=* _other_ *=>
-sevrosecurity.com
+
 ### temporary mails `why is mail confirmation still a thing?`
 - temp-mail.org -
 - throwawaymail.com -
