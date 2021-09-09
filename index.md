@@ -1,6 +1,6 @@
-## <=* _infosec_ *=>
-<hr>
- resources
+## =* _infosec_ *=
+
+### software
 - builtwith.com - _add description_
 - exploit-db.com - exploit database
 - gtfobins.github.io - a list of unix binaries to bypass local security restrictions
@@ -48,10 +48,9 @@
 - [How to Make Your Own VPN & Configure it For Maximum Privacy by zSecurity](https://www.youtube.com/watch?v=rXwJwubqVmI) - openvpn on linode
 - [Expose Local Services To The Internet With 1 COMMAND! by zSecurity](https://www.youtube.com/watch?v=111ZDMKVTL4) - `ssh -R`
 
-<br><br>
 
-## <=* _other_ *=>
-<hr>
+## =* _other_ *=
+
 ### temporary mails `why is mail confirmation still a thing?`
 - temp-mail.org - _add description_
 - throwawaymail.com - _add description_
@@ -72,5 +71,5 @@
 - trello.com - _add description_
 - maltronics.com - hardware for bad intentions
 
-## <=* _untested_ *=>
+## =* _untested_ *=
 
