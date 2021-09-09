@@ -9,16 +9,15 @@
 - whois.com/whois - get domain + owner info
 - dnsleaktest.com - ip + dns leak test
 - gchq.github.io/cyberchef - string conversion, encoding/decoding
-- maltronics.com - hardware for bad intentions
 
-### tools
+### software
 - github.com/secureauthcorp/impacket - 
 - github.com/pentestmonkey/php-reverse-shell - 
 - github.com/Hackplayers/evil-winrm - 
 - github.com/carlospolop/PEASS-ng - 
 - github.com/maurosoria/dirsearch - 
 
-### cheatsheets
+### cheatsheets `life ain't a test`
 - medium.com/@PenTest_duck/almost-all-the-ways-to-file-transfer-1bd6bf710d65 - file transfer methods
 - adamtheautomator.com/powershell-download-file - download files using powershell
 - netsparker.com/blog/web-security/sql-injection-cheat-sheet - sql injection
@@ -30,11 +29,12 @@
 - blog.g0tmi1k.com - 
 - netsec.ws - 
 - medium.com/@pentest_duck - 
-- cyber-eliya.com - 
 - fuzzysecurity.com - 
-- netsparker.com/blog
-- sevrosecurity.com
-- hackingloops.com
+- netsparker.com/blog - 
+- sevrosecurity.com - 
+- hackingloops.com - 
+- sushant747.gitbooks.io/total-oscp-guide - 
+- cyber-eliya.com - hebrew | 
 
 ### channels
 ### playlists
@@ -65,7 +65,7 @@
 - pimeyes.com - reverse image search with facial recognition
 - codeprojects.com - open source projects and tutorials
 - trello.com -
-
+- maltronics.com - hardware for bad intentions
 
 ## <=* _untested_ *=>
 - builtwith.com
