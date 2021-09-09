@@ -20,7 +20,7 @@
 - jhalon.github.io - 
 - blog.g0tmi1k.com - 
 - netsec.ws - 
-- medium.com/@pentest_duck
+- medium.com/@pentest_duck - 
 
 
 ## cheatsheets
@@ -36,7 +36,7 @@
 - github.com/secureauthcorp/impacket - 
 - github.com/pentestmonkey/php-reverse-shell - 
 - github.com/Hackplayers/evil-winrm - 
-- github.com/carlospolop/PEASS-ng
+- github.com/carlospolop/PEASS-ng - 
 
 
 ## other
