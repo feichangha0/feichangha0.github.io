@@ -1,6 +1,6 @@
 ## =* _infosec_ *=
 
-### software
+### resources
 - builtwith.com - _add description_
 - exploit-db.com - exploit database
 - gtfobins.github.io - a list of unix binaries to bypass local security restrictions
