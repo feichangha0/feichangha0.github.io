@@ -46,7 +46,12 @@
 
 ### channels
 
-- [Hackersploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) - _add description_
+- [Hackersploit](https://www.youtube.com/c/HackerSploit) - _add description_
+- [LiveOverflow](https://www.youtube.com/c/LiveOverflow) - _add description_
+- [Tech69](https://www.youtube.com/c/Tech69YT) - _add description_
+- [zSecurity](https://www.youtube.com/c/zSecurity) - _add description_
+- [John Hammond](https://www.youtube.com/c/JohnHammond010) -  _add description_
+- [SNAP](https://www.youtube.com/c/ItSNAPGaming) - hebrew - _add description_
 
 ### playlists
 
