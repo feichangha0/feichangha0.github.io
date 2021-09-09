@@ -90,7 +90,7 @@
 
 <hr><br>
 
-### some
+### stuff
 
-- place
-- holders
+- freenom.com - free domains? also dns servers
+- opendns.com - dns servers `208.67.222.222` `208.67.220.220`
