@@ -1,6 +1,9 @@
 ## _infosec_
+
 <hr><br>
+
 ### resources
+
 - builtwith.com - _add description_
 - exploit-db.com - exploit database
 - gtfobins.github.io - a list of unix binaries to bypass local security restrictions
@@ -12,6 +15,7 @@
 - gchq.github.io/cyberchef - string conversion, encoding/decoding
 
 ### software
+
 - github.com/secureauthcorp/impacket - _add description_
 - github.com/pentestmonkey/php-reverse-shell - _add description_
 - github.com/Hackplayers/evil-winrm - _add description_
@@ -19,6 +23,7 @@
 - github.com/maurosoria/dirsearch - _add description_
 
 ### cheatsheets `life ain't a test`
+
 - medium.com/@PenTest_duck/almost-all-the-ways-to-file-transfer-1bd6bf710d65 - file transfer methods
 - adamtheautomator.com/powershell-download-file - download files using powershell
 - netsparker.com/blog/web-security/sql-injection-cheat-sheet - sql injection
@@ -26,6 +31,7 @@
 - blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/ - basic linux privilege escalation
 
 ### blogs
+
 - jhalon.github.io - _add description_
 - blog.g0tmi1k.com - _add description_
 - netsec.ws - _add description_
@@ -51,8 +57,11 @@
 <br><br>
 
 ## _other_
+
 <hr><br>
+
 ### temporary mails `why is mail confirmation still a thing?`
+
 - temp-mail.org - _add description_
 - throwawaymail.com - _add description_
 - dispostable.com - _add description_
@@ -63,6 +72,7 @@
 - yopmail.com - _add description_
 
 ### misc `undescribable, uncategorized or both`
+
 - haveibeenpwned.com - who leaked your details this time?
 - bugmenot.com - usernames+password dumps for various sites
 - pastebin.com - upload text/code for quick sharing
@@ -75,7 +85,10 @@
 <br><br>
 
 ## _untested_
+
 <hr><br>
+
 ### some
+
 - place
 - holders
