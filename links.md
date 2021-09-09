@@ -1,7 +1,7 @@
 ## <=* _infosec_ *=>
 
 ### resources
-```something funny```
+`something funny`
 
 - exploit-db.com - exploit database
 - crackstation.net - online hash cracking
@@ -14,7 +14,7 @@
 ### tools
 `don't reinvent the wheel`
 
-- github.com/secureauthcorp/impacket - 
+- github.com/secureauthcorp/impacket - `test`
 - github.com/pentestmonkey/php-reverse-shell - 
 - github.com/Hackplayers/evil-winrm - 
 - github.com/carlospolop/PEASS-ng - 
