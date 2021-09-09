@@ -1,3 +1,4 @@
 # this is index
-[good links](links)
-[syllabus](syllabus)
+
+- [syllabus](syllabus)
+- [good links](links)
