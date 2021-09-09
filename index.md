@@ -12,11 +12,11 @@
 - gchq.github.io/cyberchef - string conversion, encoding/decoding
 
 ### software
-- github.com/secureauthcorp/impacket - 
-- github.com/pentestmonkey/php-reverse-shell - 
-- github.com/Hackplayers/evil-winrm - 
-- github.com/carlospolop/PEASS-ng - 
-- github.com/maurosoria/dirsearch - 
+- github.com/secureauthcorp/impacket - _add description_
+- github.com/pentestmonkey/php-reverse-shell - _add description_
+- github.com/Hackplayers/evil-winrm - _add description_
+- github.com/carlospolop/PEASS-ng - _add description_
+- github.com/maurosoria/dirsearch - _add description_
 
 ### cheatsheets `life ain't a test`
 - medium.com/@PenTest_duck/almost-all-the-ways-to-file-transfer-1bd6bf710d65 - file transfer methods
