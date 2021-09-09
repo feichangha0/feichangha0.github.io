@@ -45,7 +45,7 @@
 
 ### channels
 
-- [https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q](Hackersploit) - _add description_
+- [Hackersploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) - _add description_
 
 ### playlists
 
