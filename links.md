@@ -1,7 +1,7 @@
 # <=* _infosec_ *=>
 
 ## resources
-`something funny`
+```something funny```
 
 - exploit-db.com - exploit database
 - crackstation.net - online hash cracking
