@@ -1,5 +1,5 @@
-## =* _infosec_ *=
-<hr>
+## _infosec_
+<hr><br>
 ### resources
 - builtwith.com - _add description_
 - exploit-db.com - exploit database
@@ -50,8 +50,8 @@
 
 <br><br>
 
-## =* _other_ *=
-<hr>
+## _other_
+<hr><br>
 ### temporary mails `why is mail confirmation still a thing?`
 - temp-mail.org - _add description_
 - throwawaymail.com - _add description_
@@ -74,7 +74,8 @@
 
 <br><br>
 
-## =* _untested_ *=
-<hr>
+## _untested_
+<hr><br>
+### some
 - place
 - holders
