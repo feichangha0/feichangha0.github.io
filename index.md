@@ -6,9 +6,7 @@
 
 - builtwith.com - find out what websites are built with
 - exploit-db.com - exploit database
-- gtfobins.github.io - a list of unix binaries to bypass local security restrictions
 - crackstation.net - online hash cracking
-- gchq.github.io/cyberchef - string conversion, encoding/decoding
 - shodan.io - search engine for the internet of everything 
 - searchdns.netcraft.com - get domain + subdomain + owner info
 - whois.com/whois - get domain + owner info
@@ -25,11 +23,13 @@
 
 ### cheatsheets `life ain't a test`
 
-- [file transfer methods](https://medium.com/@PenTest_duck/almost-all-the-ways-to-file-transfer-1bd6bf710d65)
-- [download files using powershell](https://adamtheautomator.com/powershell-download-file/)
+- [Windows Privilege Escalation Fundamentals by FuzzySecurity](https://fuzzysecurity.com/tutorials/16.html)
+- [Windows Privilege Escalation by Sevro Security](https://sevrosecurity.com/checklists/windows-priv-esc/)
+- [Basic Linux Privilege Escalation by b0tm1lk](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
+- [(Almost) All The Ways to File Transfer by PenTest_duck](https://medium.com/@PenTest_duck/almost-all-the-ways-to-file-transfer-1bd6bf710d65)
+- [Download a File with an Alternative PowerShell wget Command by June Castillote](https://adamtheautomator.com/powershell-download-file/)
 - [sql injection](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
-- [windows privilege escalation fundamentals](https://fuzzysecurity.com/tutorials/16.html)
-- [basic linux privilege escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
+
 
 ### blogs
 
@@ -48,6 +48,7 @@
 
 - [Hackersploit](https://www.youtube.com/c/HackerSploit) - _add description_
 - [LiveOverflow](https://www.youtube.com/c/LiveOverflow) - _add description_
+- [Null Byte](https://www.youtube.com/c/NullByteWHT) - _add description_
 - [Tech69](https://www.youtube.com/c/Tech69YT) - _add description_
 - [zSecurity](https://www.youtube.com/c/zSecurity) - _add description_
 - [John Hammond](https://www.youtube.com/c/JohnHammond010) -  _add description_
@@ -99,3 +100,5 @@
 ### stuff
 
 - freenom.com - free domains? also dns servers
+- gtfobins.github.io - a list of unix binaries to bypass local security restrictions
+- gchq.github.io/cyberchef - string conversion, encoding/decoding
