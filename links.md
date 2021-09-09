@@ -35,6 +35,8 @@
 
 - github.com/secureauthcorp/impacket - 
 - github.com/pentestmonkey/php-reverse-shell - 
+- github.com/Hackplayers/evil-winrm - 
+- github.com/carlospolop/PEASS-ng
 
 
 ## other
