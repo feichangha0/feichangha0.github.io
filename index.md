@@ -36,12 +36,14 @@
 - fuzzysecurity.com - 
 - netsparker.com/blog
 - sevrosecurity.com
+- hackingloops.com
 
 ### channels
 ### playlists
 - [GitHub Pages and Jekyll by Bill Raymond - build a github pages website like this one](https://www.youtube.com/playlist?list=PLWzwUIYZpnJuT0sH4BN56P5oWTdHJiTNq)
 ### videos
-
+- [How to Make Your Own VPN & Configure it For Maximum Privacy by zSecurity - openvpn on linode](https://www.youtube.com/watch?v=rXwJwubqVmI)
+- [Expose Local Services To The Internet With 1 COMMAND! by zSecurity - `ssh -R`](https://www.youtube.com/watch?v=111ZDMKVTL4)
 
 <br>
 
@@ -58,9 +60,15 @@
 - yopmail.com -
 
 ### misc `undescribable, uncategorized or both`
+- haveibeenpwned.com - who leaked your details this time?
 - bugmenot.com - usernames+password dumps for various sites
 - pastebin.com - upload text/code for quick sharing
 - requestbin - collect, inspect and debug http requests
 - pimeyes.com - reverse image search with facial recognition
 - codeprojects.com - open source projects and tutorials
 - trello.com -
+
+
+## <=* _untested_ *=>
+- builtwith.com
+- 
