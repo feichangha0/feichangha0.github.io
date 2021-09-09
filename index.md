@@ -27,14 +27,17 @@
 
 ### windows
 
--- [Windows Privilege Escalation Fundamentals by FuzzySecurity](https://fuzzysecurity.com/tutorials/16.html)
--- [Windows Privilege Escalation by Sevro Security](https://sevrosecurity.com/checklists/windows-priv-esc/)
+- [Windows Privilege Escalation Fundamentals by FuzzySecurity](https://fuzzysecurity.com/tutorials/16.html)
+- [Windows Privilege Escalation by Sevro Security](https://sevrosecurity.com/checklists/windows-priv-esc/)
+- [Download a File with an Alternative PowerShell wget Command by June Castillote](https://adamtheautomator.com/powershell-download-file/)
 
 ### linux
 
-  - [Basic Linux Privilege Escalation by g0tm1lk](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
+- [Basic Linux Privilege Escalation by g0tm1lk](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
 - [(Almost) All The Ways to File Transfer by PenTest_duck](https://medium.com/@PenTest_duck/almost-all-the-ways-to-file-transfer-1bd6bf710d65)
-- [Download a File with an Alternative PowerShell wget Command by June Castillote](https://adamtheautomator.com/powershell-download-file/)
+
+### either
+
 - [sql injection](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
 
 
