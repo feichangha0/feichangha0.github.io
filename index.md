@@ -1,7 +1,5 @@
-# this is index
-
 ## <=* _infosec_ *=>
-
+<hr>
 ### resources
 - exploit-db.com - exploit database
 - gtfobins.github.io - a list of unix binaries to bypass local security restrictions
@@ -48,7 +46,7 @@
 <br>
 
 ## <=* _other_ *=>
-
+<hr>
 ### temporary mails `why is mail confirmation still a thing?`
 - temp-mail.org -
 - throwawaymail.com -
