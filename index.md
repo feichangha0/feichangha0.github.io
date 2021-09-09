@@ -38,9 +38,13 @@
 - cyber-eliya.com - hebrew - _add description_
 
 ### channels
+
 ### playlists
+
 - [GitHub Pages and Jekyll by Bill Raymond](https://www.youtube.com/playlist?list=PLWzwUIYZpnJuT0sH4BN56P5oWTdHJiTNq) - build a github pages website like this one
+
 ### videos
+
 - [How to Make Your Own VPN & Configure it For Maximum Privacy by zSecurity](https://www.youtube.com/watch?v=rXwJwubqVmI) - openvpn on linode
 - [Expose Local Services To The Internet With 1 COMMAND! by zSecurity](https://www.youtube.com/watch?v=111ZDMKVTL4) - `ssh -R`
 
