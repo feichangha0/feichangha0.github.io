@@ -1,6 +1,6 @@
-# <=* _infosec_ *=>
+## <=* _infosec_ *=>
 
-## resources
+### resources
 ```something funny```
 
 - exploit-db.com - exploit database
@@ -11,7 +11,7 @@
 - gchq.github.io/cyberchef - string conversion, encoding/decoding
 
 
-## tools
+### tools
 `don't reinvent the wheel`
 
 - github.com/secureauthcorp/impacket - 
@@ -21,20 +21,20 @@
 - github.com/maurosoria/dirsearch - 
 
 
-## cheatsheets
+### cheatsheets
 `life isn't an exam`
 
 - medium.com/@PenTest_duck/almost-all-the-ways-to-file-transfer-1bd6bf710d65 - file transfer methods
 - adamtheautomator.com/powershell-download-file - download files using powershell
 
 
-## channels
+### channels
 
-## playlists
+### playlists
 
-## videos
+### videos
 
-## blogs
+### blogs
 `read, become smarter`
 
 - jhalon.github.io - 
@@ -45,9 +45,9 @@
 
 
 
-# <=* _other_ *=>
+## <=* _other_ *=>
 
-## temporary mails
+### temporary mails
 `why is mail confirmation still a thing?`
 
 - temp-mail.org -
@@ -60,7 +60,7 @@
 - yopmail.com -
 
 
-## misc
+### misc
 `undescribable, uncategorized or both`
 
 - bugmenot.com - usernames+password dumps for various sites
