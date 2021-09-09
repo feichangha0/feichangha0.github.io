@@ -37,13 +37,13 @@
 
 ### channels
 ### playlists
+- [GitHub Pages and Jekyll by Bill Raymond - build a github pages website like this one](https://www.youtube.com/playlist?list=PLWzwUIYZpnJuT0sH4BN56P5oWTdHJiTNq)
 ### videos
 
 
 <br>
 
 ## <=* _other_ *=>
-sevrosecurity.com
 ### temporary mails `why is mail confirmation still a thing?`
 - temp-mail.org -
 - throwawaymail.com -
