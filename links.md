@@ -45,7 +45,7 @@
 
 
 # other
-```
+
 ## temporary mails
 `why is mail confirmation still a thing?`
 
@@ -68,4 +68,4 @@
 - pimeyes.com - reverse image search with facial recognition
 - codeprojects.com - open source projects and tutorials
 - trello.com -
-```
+
