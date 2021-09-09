@@ -1,5 +1,5 @@
 # infosec
-```
+
 ## resources
 `something funny`
 
@@ -42,7 +42,7 @@
 - github.com/Hackplayers/evil-winrm - 
 - github.com/carlospolop/PEASS-ng - 
 - github.com/maurosoria/dirsearch - 
-```
+
 
 # other
 ```
