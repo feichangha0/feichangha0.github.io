@@ -12,7 +12,7 @@
 
 ### tools `don't reinvent the wheel`
 
-- github.com/secureauthcorp/impacket - `test`
+- github.com/secureauthcorp/impacket - 
 - github.com/pentestmonkey/php-reverse-shell - 
 - github.com/Hackplayers/evil-winrm - 
 - github.com/carlospolop/PEASS-ng - 
@@ -39,7 +39,7 @@
 - medium.com/@pentest_duck - 
 - cyber-eliya.com - 
 
-
+<br>
 
 ## <=* _other_ *=>
 
