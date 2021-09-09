@@ -25,11 +25,11 @@
 
 ### cheatsheets `life ain't a test`
 
-- medium.com/@PenTest_duck/almost-all-the-ways-to-file-transfer-1bd6bf710d65 - file transfer methods
-- adamtheautomator.com/powershell-download-file - download files using powershell
-- netsparker.com/blog/web-security/sql-injection-cheat-sheet - sql injection
-- fuzzysecurity.com/tutorials/16.html - windows privilege escalation fundamentals
-- blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/ - basic linux privilege escalation
+- [file transfer methods](https://medium.com/@PenTest_duck/almost-all-the-ways-to-file-transfer-1bd6bf710d65)
+- [download files using powershell](https://adamtheautomator.com/powershell-download-file/)
+- [sql injection](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
+- [windows privilege escalation fundamentals](https://fuzzysecurity.com/tutorials/16.html)
+- [basic linux privilege escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
 
 ### blogs
 
