@@ -4,15 +4,16 @@
 
 ### resources
 
-- builtwith.com - _add description_
+- builtwith.com - find out what websites are built with
 - exploit-db.com - exploit database
 - gtfobins.github.io - a list of unix binaries to bypass local security restrictions
 - crackstation.net - online hash cracking
+- gchq.github.io/cyberchef - string conversion, encoding/decoding
 - shodan.io - search engine for the internet of everything 
 - searchdns.netcraft.com - get domain + subdomain + owner info
 - whois.com/whois - get domain + owner info
+- opendns.com - dns servers `208.67.222.222` `208.67.220.220`
 - dnsleaktest.com - ip + dns leak test
-- gchq.github.io/cyberchef - string conversion, encoding/decoding
 
 ### software
 
@@ -93,4 +94,3 @@
 ### stuff
 
 - freenom.com - free domains? also dns servers
-- opendns.com - dns servers `208.67.222.222` `208.67.220.220`
