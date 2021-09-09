@@ -1,7 +1,6 @@
 ## <=* _infosec_ *=>
 
-### resources
-`something funny`
+### resources `something funny`
 
 - exploit-db.com - exploit database
 - crackstation.net - online hash cracking
@@ -11,8 +10,7 @@
 - gchq.github.io/cyberchef - string conversion, encoding/decoding
 
 
-### tools
-`don't reinvent the wheel`
+### tools `don't reinvent the wheel`
 
 - github.com/secureauthcorp/impacket - `test`
 - github.com/pentestmonkey/php-reverse-shell - 
@@ -21,8 +19,7 @@
 - github.com/maurosoria/dirsearch - 
 
 
-### cheatsheets
-`life isn't an exam`
+### cheatsheets `life isn't an exam`
 
 - medium.com/@PenTest_duck/almost-all-the-ways-to-file-transfer-1bd6bf710d65 - file transfer methods
 - adamtheautomator.com/powershell-download-file - download files using powershell
@@ -34,8 +31,7 @@
 
 ### videos
 
-### blogs
-`read, become smarter`
+### blogs `read, become smarter`
 
 - jhalon.github.io - 
 - blog.g0tmi1k.com - 
@@ -47,8 +43,7 @@
 
 ## <=* _other_ *=>
 
-### temporary mails
-`why is mail confirmation still a thing?`
+### temporary mails `why is mail confirmation still a thing?`
 
 - temp-mail.org -
 - throwawaymail.com -
@@ -60,8 +55,7 @@
 - yopmail.com -
 
 
-### misc
-`undescribable, uncategorized or both`
+### misc `undescribable, uncategorized or both`
 
 - bugmenot.com - usernames+password dumps for various sites
 - pastebin.com - upload text/code for quick sharing
