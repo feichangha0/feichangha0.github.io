@@ -1,4 +1,4 @@
-# infosec
+# <=* _infosec_ *=>
 
 ## resources
 `something funny`
@@ -9,6 +9,16 @@
 - whois.com - get domain + owner info
 - dnsleaktest.com - ip + dns leak test
 - gchq.github.io/cyberchef - string conversion, encoding/decoding
+
+
+## tools
+`don't reinvent the wheel`
+
+- github.com/secureauthcorp/impacket - 
+- github.com/pentestmonkey/php-reverse-shell - 
+- github.com/Hackplayers/evil-winrm - 
+- github.com/carlospolop/PEASS-ng - 
+- github.com/maurosoria/dirsearch - 
 
 
 ## cheatsheets
@@ -34,17 +44,8 @@
 - cyber-eliya.com - 
 
 
-## tools
-`don't reinvent the wheel`
 
-- github.com/secureauthcorp/impacket - 
-- github.com/pentestmonkey/php-reverse-shell - 
-- github.com/Hackplayers/evil-winrm - 
-- github.com/carlospolop/PEASS-ng - 
-- github.com/maurosoria/dirsearch - 
-
-
-# other
+# <=* _other_ *=>
 
 ## temporary mails
 `why is mail confirmation still a thing?`
