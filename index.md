@@ -6,6 +6,8 @@
 
 - builtwith.com - find out what websites are built with
 - exploit-db.com - exploit database
+- cvedetails.com - _add description_
+- cve.mitre.org - _add description_
 - crackstation.net - online hash cracking
 - shodan.io - search engine for the internet of everything 
 - searchdns.netcraft.com - get domain + subdomain + owner info
