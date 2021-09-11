@@ -14,6 +14,7 @@
 - whois.com/whois - get domain + owner info
 - opendns.com - dns servers `208.67.222.222` `208.67.220.220`
 - dnsleaktest.com - ip + dns leak test
+- github.com/danielmiessler/SecLists - collections of usernames and passwords
 
 ## software
 
