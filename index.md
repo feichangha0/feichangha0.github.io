@@ -4,7 +4,7 @@
 
 ## resources
 
-- builtwith.com - find out what websites are built with
+- builtwith.com - find out what technologies a remote host uses
 - exploit-db.com - exploit database
 - cvedetails.com - _add description_
 - cve.mitre.org - _add description_
