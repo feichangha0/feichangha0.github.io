@@ -115,3 +115,4 @@
 - freenom.com - free domains? also dns servers
 - gtfobins.github.io - a list of unix binaries to bypass local security restrictions
 - gchq.github.io/cyberchef - string conversion, encoding/decoding
+- portswigger.net/web-security/learning-path - webapp pentesting course by burp suite's creators
