@@ -5,6 +5,7 @@
 ## resources
 
 - hackertarget.com - _add description_
+- mxtoolbox.com - network lookup and diagnostic tools
 - builtwith.com - find out what technologies a remote host uses
 - exploit-db.com - exploit database
 - cvedetails.com - _add description_
