@@ -4,6 +4,7 @@
 
 ## resources
 
+- hackertarget.com - _add description_
 - builtwith.com - find out what technologies a remote host uses
 - exploit-db.com - exploit database
 - cvedetails.com - _add description_
@@ -116,4 +117,3 @@
 - gtfobins.github.io - a list of unix binaries to bypass local security restrictions
 - gchq.github.io/cyberchef - string conversion, encoding/decoding
 - portswigger.net/web-security/learning-path - webapp pentesting course by burp suite's creators
-- hackertarget.com - _add description_
