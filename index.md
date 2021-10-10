@@ -4,6 +4,8 @@
 
 ## resources
 
+- github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md#bash-tcp - everything ever?
+- github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md - reverse shells cheatsheet
 - hackertarget.com - _add description_
 - mxtoolbox.com - network lookup and diagnostic tools
 - builtwith.com - find out what technologies a remote host uses
