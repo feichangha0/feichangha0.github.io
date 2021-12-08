@@ -121,3 +121,5 @@
 - gtfobins.github.io - a list of unix binaries to bypass local security restrictions
 - gchq.github.io/cyberchef - string conversion, encoding/decoding
 - portswigger.net/web-security/learning-path - webapp pentesting course by burp suite's creators
+- osintframework.com - OSINT resources collection
+- learntech.co.il/toolscatalogue - hebrew - a list of useful online tools
