@@ -123,3 +123,4 @@
 - portswigger.net/web-security/learning-path - webapp pentesting course by burp suite's creators
 - osintframework.com - OSINT resources collection
 - learntech.co.il/toolscatalogue - hebrew - a list of useful online tools
+- skillsforall.com/catalog - free online courses for tech jobs
