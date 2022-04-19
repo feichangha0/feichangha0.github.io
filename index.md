@@ -31,6 +31,7 @@
 ## cheatsheets `life ain't a test`
 
 - [pwnwiki.io - a collection of post-exploit guides and tools](http://pwnwiki.io)
+- medium.com/@anushka.datascoop/101-data-science-cheat-sheets-ml-dl-scraping-python-r-sql-maths-statistics-ef30b4d786eb - _add description_
 
 ### windows
 
