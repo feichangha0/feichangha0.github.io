@@ -109,6 +109,7 @@
 - trello.com - _add description_
 - maltronics.com - hardware for bad intentions
 - thispersondoesnotexist.com - fake profile picture generator
+- isecom.org/OSSTMM.3.pdf - Open Source Security Testing Methodolody Manual
 
 <br><br>
 
