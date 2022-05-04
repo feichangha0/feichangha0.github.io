@@ -9,6 +9,7 @@
 - hackertarget.com - _add description_
 - mxtoolbox.com - network lookup and diagnostic tools
 - builtwith.com - find out what technologies a remote host uses
+- wappalyzer.com - find out what technologies a site uses
 - exploit-db.com - exploit database
 - cvedetails.com - _add description_
 - cve.mitre.org - _add description_
