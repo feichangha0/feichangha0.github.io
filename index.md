@@ -1,4 +1,4 @@
-# _infosec_
+# bookmarks
 
 <hr><br>
 
@@ -112,9 +112,6 @@
 - thispersondoesnotexist.com - fake profile picture generator
 - isecom.org/OSSTMM.3.pdf - Open Source Security Testing Methodolody Manual
 
-<br><br>
-
-# _untested_
 
 <hr><br>
 
@@ -127,3 +124,4 @@
 - osintframework.com - OSINT resources collection
 - learntech.co.il/toolscatalogue - hebrew - a list of useful online tools
 - skillsforall.com/catalog - free online courses for tech jobs
+- massgrave.dev - Windows Activation Scripts (MAS)
