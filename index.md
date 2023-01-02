@@ -54,9 +54,7 @@
 - dnsleaktest.com - ip + dns leak test, anonymity check
 - browserling.com - browser simulator
 - pastebin.com - upload text for quick sharing (may contain credential dumps, config files etc)
-- requestbin.com - collect, inspect and debug http requests (?)
 - pimeyes.com - reverse image search
-- opendns.com - dns servers `208.67.222.222` `208.67.220.220`
 ### test for malice
 - virustotal.com - scan file(650MB)/url/hash, malware analysis
 - any.run - online sandbox for urls and files(16MB), malware analysis
@@ -74,9 +72,13 @@
 - yopmail.com
 
 
-## unsorted
+## toolios
 - 0x1.gitlab.io/code/CyberChef - string conversion, encoding/decoding
 - base64decode.org - translate that gibberish
+- opendns.com - dns servers `208.67.222.222` `208.67.220.220`
+
+
+
 - [How to Make Your Own VPN & Configure it For Maximum Privacy by zSecurity](https://www.youtube.com/watch?v=rXwJwubqVmI) - openvpn on linode
 - [Expose Local Services To The Internet With 1 COMMAND! by zSecurity](https://www.youtube.com/watch?v=111ZDMKVTL4) - `ssh -R`
 
@@ -87,6 +89,8 @@
 - https://quillbot.com/
 - https://huggingface.co/openai-detector
 - https://writer.com/ai-content-detector/
+- https://jenni.ai/
+- https://www.jasper.ai/
 ## forums
  - https://breached.co/ - breached forums, raidforums' successor
  - https://hackforums.net/ - hackforums
