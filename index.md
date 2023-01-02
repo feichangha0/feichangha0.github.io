@@ -49,6 +49,7 @@
 - blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
 
 ## opsec
+- privacytools.io - privacy-focused tools
 - haveibeenpwned.com - who leaked your details this time?
 - dnsleaktest.com - ip + dns leak test, anonymity check
 - browserling.com - browser simulator
