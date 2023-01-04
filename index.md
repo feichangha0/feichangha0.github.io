@@ -1,6 +1,3 @@
-- isecom.org/OSSTMM.3.pdf - Open Source Security Testing Methodolody Manual `official`
-- attack.mitre.org - mitre attack matrix `official`
- 
 ## gaining access
 ### passive recon
 - osintframework.com - osint resources collection
@@ -13,10 +10,11 @@
 - builtwith.com - find out what technologies a site uses
 - wappalyzer.com - find out what technologies a site uses
 - shodan.io - search engine for the internet of everything
+- nmap.online - remote nmap port scanning
+- hackertarget.com - remote nmap, dns and ip tools
 
 ### active recon, enumeration
-- nmap.online
-- hackertarget.com
+
 - github.com/danielmiessler/SecLists - worst username and password lists
 - github.com/maurosoria/dirsearch
 - crackstation.net - online hash cracking
@@ -46,15 +44,18 @@
 - lolbas-project.github.io - guide list on windows binaries exploitation
 - fuzzysecurity.com/tutorials/16.html
 - sevrosecurity.com/checklists/windows-priv-esc/
-- blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
+- blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
 
-## opsec
-- privacytools.io - privacy-focused tools
+
+## toolios
+- 0x1.gitlab.io/code/CyberChef - string conversion, encoding/decoding
+- base64decode.org - translate that gibberish
 - haveibeenpwned.com - who leaked your details this time?
 - dnsleaktest.com - ip + dns leak test, anonymity check
 - browserling.com - browser simulator
-- pastebin.com - upload text for quick sharing (may contain credential dumps, config files etc)
 - pimeyes.com - reverse image search
+- privacytools.io - privacy-focused tools
+- learntech.co.il/toolscatalogue (hebrew) - a list of tools
 ### test for malice
 - virustotal.com - scan file(650MB)/url/hash, malware analysis
 - any.run - online sandbox for urls and files(16MB), malware analysis
@@ -70,27 +71,11 @@
 - guerrillamail.com
 - mailforspam.com
 - yopmail.com
-
-
-## toolios
-- 0x1.gitlab.io/code/CyberChef - string conversion, encoding/decoding
-- base64decode.org - translate that gibberish
+## dump
+- pastebin.com - upload text for quick sharing (may contain credential dumps, config files etc)
+- github.com/massgravel/Microsoft-Activation-Scripts | massgrave.dev - Windows Activation Scripts (MAS) /untested
 - opendns.com - dns servers `208.67.222.222` `208.67.220.220`
-
-
-
-- [How to Make Your Own VPN & Configure it For Maximum Privacy by zSecurity](https://www.youtube.com/watch?v=rXwJwubqVmI) - openvpn on linode
-- [Expose Local Services To The Internet With 1 COMMAND! by zSecurity](https://www.youtube.com/watch?v=111ZDMKVTL4) - `ssh -R`
-
-
-## ai
-- https://chat.openai.com/chat - ChatGPT
-- https://beta.openai.com/playground - OpenAI Playground, GPT-3 and Codex models
-- https://quillbot.com/
-- https://huggingface.co/openai-detector
-- https://writer.com/ai-content-detector/
-- https://jenni.ai/
-- https://www.jasper.ai/
+- freenom.com - free domains? also dns servers
 ## forums
  - https://breached.co/ - breached forums, raidforums' successor
  - https://hackforums.net/ - hackforums
@@ -110,12 +95,10 @@
 - [zSecurity](https://www.youtube.com/c/zSecurity)
 - [John Hammond](https://www.youtube.com/c/JohnHammond010)
 - [SNAP](https://www.youtube.com/c/ItSNAPGaming) (hebrew)
-## other 1
+## other
+- isecom.org/OSSTMM.3.pdf - Open Source Security Testing Methodolody Manual `official`
+- attack.mitre.org - mitre attack matrix `official`
 - portswigger.net/web-security/learning-path - webapp pentesting course by burp suite's creators
+- skillsforall.com/catalog - free online courses for tech jobs by cisco
 - sushant747.gitbooks.io/total-oscp-guide - notes for oscp
-## other 2
-- learntech.co.il/toolscatalogue (hebrew) - a huge list of tools
-- github.com/massgravel/Microsoft-Activation-Scripts | massgrave.dev - Windows Activation Scripts (MAS) /untested
-- code-projects.org - open source projects and tutorials
-- skillsforall.com/catalog - free online courses for tech jobs
-- freenom.com - free domains? also dns servers
+ - code-projects.org - open source projects and tutorials
