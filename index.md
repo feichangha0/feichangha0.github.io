@@ -1,5 +1,4 @@
-## gaining access
-### passive recon
+## recon
 - osintframework.com - osint resources collection
 - github.com/jivoi/awesome-osint
 - mxtoolbox.com
@@ -10,13 +9,23 @@
 - builtwith.com - find out what technologies a site uses
 - wappalyzer.com - find out what technologies a site uses
 - shodan.io - search engine for the internet of everything
+
+## gaining access
+### scanning, enumeration
 - nmap.online - remote nmap port scanning
 - hackertarget.com - remote nmap, dns and ip tools
-
-### active recon, enumeration
-
-- github.com/danielmiessler/SecLists - worst username and password lists
 - github.com/maurosoria/dirsearch
+
+### exploit
+- github.com/secureauthcorp/impacket - python library for network protocols shenanigans
+- github.com/Hackplayers/evil-winrm - evil remote windows management
+- exploit-db.com - exploit database
+- cvedetails.com 
+- cve.mitre.org
+- cve.org
+
+### cracking
+- github.com/danielmiessler/SecLists - worst username and password lists
 - crackstation.net - online hash cracking
 
 ### web
@@ -24,14 +33,6 @@
 - github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Methodology%20and%20Resources
 - netsparker.com/blog/web-security/sql-injection-cheat-sheet - sql inection cheat sheet
 - github.com/pentestmonkey/php-reverse-shell
-
-### exploit
-- github.com/secureauthcorp/impacket - python library for network protocols shenanigans
-- github.com/Hackplayers/evil-winrm
-- exploit-db.com - exploit database
-- cvedetails.com 
-- cve.mitre.org
-- cve.org
 
 ## post access
 - pwnwiki.io
@@ -71,14 +72,18 @@
 - guerrillamail.com
 - mailforspam.com
 - yopmail.com
-## dump
+### dump
 - pastebin.com - upload text for quick sharing (may contain credential dumps, config files etc)
 - github.com/massgravel/Microsoft-Activation-Scripts | massgrave.dev - Windows Activation Scripts (MAS) /untested
 - opendns.com - dns servers `208.67.222.222` `208.67.220.220`
 - freenom.com - free domains? also dns servers
 ## forums
- - https://breached.co/ - breached forums, raidforums' successor
- - https://hackforums.net/ - hackforums
+- https://breached.co/ - breached forums, raidforums' successor
+- https://hackforums.net/ - hackforums
+## hands-on learning platforms
+- tryhackme.com
+- hackthebox.eu
+- overthewire.org
 ## blogs
 - fuzzysecurity.com
 - sevrosecurity.com
