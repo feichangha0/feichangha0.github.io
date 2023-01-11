@@ -38,6 +38,7 @@
 - pwnwiki.io
 - [Download a File with an Alternative PowerShell wget Command by June Castillote](https://adamtheautomator.com/powershell-download-file/)
 - [(Almost) All The Ways to File Transfer by PenTest_duck](https://medium.com/@PenTest_duck/almost-all-the-ways-to-file-transfer-1bd6bf710d65)
+- unprotect.it - obfuscation and defense evasion, malware hardening
 
 ### privesc
 - github.com/carlospolop/PEASS-ng - privilege escalation automation
