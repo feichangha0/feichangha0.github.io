@@ -1,5 +1,6 @@
 ## recon
 - osintframework.com - osint resources collection
+- technisette.com/p/tutorials
 - github.com/jivoi/awesome-osint
 - mxtoolbox.com
 - ipvoid.com - online tool collection: ping, tracert, whois, myip, dig, dns, http headers
