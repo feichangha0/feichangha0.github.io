@@ -1,6 +1,5 @@
 ## recon
 - osintframework.com - osint resources collection
-- start.me/p/ELXoK8/bellingcat-osint-landscape - dead, backing up
 - github.com/jivoi/awesome-osint
 - mxtoolbox.com
 - ipvoid.com - online tool collection: ping, tracert, whois, myip, dig, dns, http headers
