@@ -1,6 +1,6 @@
 ## -> recon
 - osintframework.com - osint resources collection
-- technisette.com/p/tutorials
+- technisette.com - osint, databses, tools, tutorials
 - github.com/jivoi/awesome-osint
 - mxtoolbox.com
 - ipvoid.com - online tool collection: ping, tracert, whois, myip, dig, dns, http headers
@@ -12,6 +12,7 @@
 - shodan.io - search engine for the internet of everything
 
 ## -> gaining access
+- book.hacktricks.xyz - a whole bible
 ### scanning, enumeration
 - nmap.online - remote nmap port scanning
 - hackertarget.com - remote nmap, dns and ip tools
