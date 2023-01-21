@@ -1,4 +1,4 @@
-## recon
+## -> recon
 - osintframework.com - osint resources collection
 - technisette.com/p/tutorials
 - github.com/jivoi/awesome-osint
@@ -11,13 +11,13 @@
 - wappalyzer.com - find out what technologies a site uses
 - shodan.io - search engine for the internet of everything
 
-## gaining access
+## -> gaining access
 ### scanning, enumeration
 - nmap.online - remote nmap port scanning
 - hackertarget.com - remote nmap, dns and ip tools
 - github.com/maurosoria/dirsearch
 
-### exploit
+### exploit, cve
 - github.com/secureauthcorp/impacket - python library for network protocols shenanigans
 - github.com/Hackplayers/evil-winrm - evil remote windows management
 - exploit-db.com - exploit database
@@ -35,7 +35,7 @@
 - netsparker.com/blog/web-security/sql-injection-cheat-sheet - sql inection cheat sheet
 - github.com/pentestmonkey/php-reverse-shell
 
-## post access
+## -> post access
 - pwnwiki.io
 - [Download a File with an Alternative PowerShell wget Command by June Castillote](https://adamtheautomator.com/powershell-download-file/)
 - [(Almost) All The Ways to File Transfer by PenTest_duck](https://medium.com/@PenTest_duck/almost-all-the-ways-to-file-transfer-1bd6bf710d65)
@@ -50,7 +50,7 @@
 - blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
 
 
-## toolios
+## -> toolios
 - 0x1.gitlab.io/code/CyberChef - string conversion, encoding/decoding
 - base64decode.org - translate that gibberish
 - haveibeenpwned.com - who leaked your details this time?
@@ -103,7 +103,7 @@
 - [John Hammond](https://www.youtube.com/c/JohnHammond010)
 - [SNAP](https://www.youtube.com/c/ItSNAPGaming) (hebrew)
 - [CS50](https://www.youtube.com/@cs50)
-## other
+## -> other
 - isecom.org/OSSTMM.3.pdf - Open Source Security Testing Methodolody Manual `official`
 - attack.mitre.org - mitre attack matrix `official`
 - portswigger.net/web-security/learning-path - webapp pentesting course by burp suite's creators
