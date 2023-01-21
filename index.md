@@ -12,7 +12,7 @@
 - shodan.io - search engine for the internet of everything
 
 ## -> gaining access
-- book.hacktricks.xyz - a whole bible
+- book.hacktricks.xyz - a hacking bible
 ### scanning, enumeration
 - nmap.online - remote nmap port scanning
 - hackertarget.com - remote nmap, dns and ip tools
