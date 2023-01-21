@@ -102,10 +102,12 @@
 - [zSecurity](https://www.youtube.com/c/zSecurity)
 - [John Hammond](https://www.youtube.com/c/JohnHammond010)
 - [SNAP](https://www.youtube.com/c/ItSNAPGaming) (hebrew)
+- [CS50](https://www.youtube.com/@cs50)
 ## other
 - isecom.org/OSSTMM.3.pdf - Open Source Security Testing Methodolody Manual `official`
 - attack.mitre.org - mitre attack matrix `official`
 - portswigger.net/web-security/learning-path - webapp pentesting course by burp suite's creators
 - skillsforall.com/catalog - free online courses for tech jobs by cisco
 - sushant747.gitbooks.io/total-oscp-guide - notes for oscp
- - code-projects.org - open source projects and tutorials
+- code-projects.org - open source projects and tutorials
+- freecodecamp.org/news/here-are-380-ivy-league-courses-you-can-take-online-right-now-for-free-9b3ffcbd7b8c/ - free courses
