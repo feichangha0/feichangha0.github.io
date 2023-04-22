@@ -12,7 +12,7 @@
 - shodan.io - search engine for the internet of everything
 
 ## -> gaining access
-- github.com/carlospolop/hacktricks | book.hacktricks.xyz - a hacking bible
+- github.com/carlospolop/hacktricks OR book.hacktricks.xyz - a hacking bible
 ### scanning, enumeration
 - nmap.online - remote nmap port scanning
 - hackertarget.com - remote nmap, dns and ip tools
@@ -77,7 +77,7 @@
 - yopmail.com
 ### dump
 - pastebin.com - upload text for quick sharing (may contain credential dumps, config files etc)
-- github.com/massgravel/Microsoft-Activation-Scripts | massgrave.dev - Windows Activation Scripts (MAS) /untested
+- github.com/massgravel/Microsoft-Activation-Scripts OR massgrave.dev - Windows Activation Scripts (MAS) /untested
 - opendns.com - dns servers `208.67.222.222` `208.67.220.220`
 - freenom.com - free domains? also dns servers
 ## forums
