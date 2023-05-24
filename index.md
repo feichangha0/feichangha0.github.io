@@ -3,7 +3,7 @@
 - technisette.com - osint, databses, tools, tutorials
 - github.com/jivoi/awesome-osint
 - mxtoolbox.com
-- ipvoid.com - online tool collection: ping, tracert, whois, myip, dig, dns, http headers
+- ipvoid.com
 - whois.com/whois - get domain + owner info
 - urlscan.io - hostnames, dns records
 - searchdns.netcraft.com - subdomain search
@@ -81,6 +81,7 @@
 - github.com/massgravel/Microsoft-Activation-Scripts OR massgrave.dev - Windows Activation Scripts (MAS) /untested
 - opendns.com - dns servers `208.67.222.222` `208.67.220.220`
 - freenom.com - free domains? also dns servers
+- vx-underground.org - collection of malware source code, samples, and papers
 ## forums
 - https://breached.co/ - breached forums, raidforums' successor
 - https://hackforums.net/ - hackforums
