@@ -10,6 +10,7 @@
 - builtwith.com - find out what technologies a site uses
 - wappalyzer.com - find out what technologies a site uses
 - shodan.io - search engine for the internet of everything
+- gpt.censys.io - censysGPT
 
 ## -> gaining access
 - github.com/carlospolop/hacktricks OR book.hacktricks.xyz - a hacking bible
