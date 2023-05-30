@@ -86,6 +86,7 @@
 - vx-underground.org - collection of malware source code, samples, and papers
 ## forums
 - https://breached.co/ - breached forums, raidforums' successor
+- exposed.vc - exposeforums, the new breached forums?
 - https://hackforums.net/ - hackforums
 ## hands-on learning platforms
 - tryhackme.com
