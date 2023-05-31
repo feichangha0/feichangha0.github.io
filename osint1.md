@@ -47,3 +47,183 @@ earth.esa.int/web/guest/home;jsessionid=2BBA82C529432A23A4938EFAA6123A82.jvm2" c
 
 
 
+EXTRACTED
+=========
+
+Social media platforms
+
+- facebook.com - Facebook
+- stalkscan.com - Facebook - Stalkscan
+- inteltechniques.com/osint/facebook.html - Facebook - Search Tool
+- graph.tips/beta/ - Facebook - Graph Search Generator
+- fbdown.net - Facebook - FBDown
+- facebook.com/facebookmedia/get-started/signal - Facebook - Signal
+- peoplefindthor.dk - Facebook - PeopleFindThor
+- weibo.com/login.php - Weibo
+- twitter.com - Twitter
+- tweetbeaver.com - Twitter - Tweetbeaver
+- twxplorer.knightlab.com - Twitter - TwXplorer
+- projects.noahliebman.net/listcopy/connect.php - Twitter - Twitter list copy
+- tweetdeck.com - Twitter - Tweetdeck
+- downloadtwittervideo.com - Twitter - Download Twitter Video
+- qzone.qq.com - QZone
+- instagram.com - Instagram
+- websta.me - Instagram - Websta
+- downloadgram.com - Instagram - Instagram downloader
+- picodash.com - Instagram - Picodash
+- ok.ru - Odnoklassniki
+- linkedin.com - LinkedIn
+- socilab.com - LinkedIn - Socilab
+- vk.com - VK
+- photo-map.ru - VK - Photomap
+- snapchat.com - Snapchat
+- map.snapchat.com - Snapchat - Snapmap
+- youtube.com - YouTube
+- en.savefrom.net/1-how-to-download-youtube-video/ - YouTube - Savefrom.net
+- citizenevidence.amnestyusa.org - YouTube - YouTube dataviewer
+- watchframebyframe.com - YouTube - Frame by frame
+- storyful.com - YouTube - Storyful
+- youtube.github.io/geo-search-tool/search.html - YouTube - Geo Search tool
+- pscp.tv - Periscope
+- downloadperiscopevideos.com - Periscope - Scopedown
+- dataminr.com - Dataminr
+- inteltechniques.com/menu.html - Intel Techniques
+- echosec.net - Echosec
+- warwire.net - War Wire
+
+Maritime movements 
+
+- marinetraffic.com - Marine Traffic
+- maritime.ihs.com - IHS Markit AIS Live
+- lloydslistintelligence.com - Lloyd's List Intelligence
+- shipspotting.com - Ship Spotting
+- vesselfinder.com - Vessel Finder
+- shipfinder.co - Shipfinder
+- shipfinder.com - Shipfinder
+- shipais.com - ShipAIS
+- shippingexplorer.net/en - ShippingExplorer
+- boatnerd.com - Boatnerd
+- arundale.com/docs/ais/ais_decoder.html - Ais Decoder
+- coaa.co.uk - COAA
+
+Aviation movements
+
+- airnavsystems.com - AirNav Radarsystems
+- adsbexchange.com - ADS-B Exchange
+- uk.flightaware.com - FlightAware
+- liveatc.net - LiveATC
+- flightradar24.com - Flightrader24
+- github.com/lefranz/geneva-dictators - GVA Dictator Alert
+- planespotters.net - Planespotters
+
+Radio
+
+- radioreference.com - Radioreference
+- broadcastify.com - Broadcastify
+- radio.garden - Radio.garden
+- sdr.hu - SDR.hu
+- globaltuners.com - GlobalTuners
+- proscan.org - ProScan
+- milscanners.org - MilScanners
+
+Commercial registries
+
+- opencorporates.com - OpenCorporates
+- infobel.com - Infobel
+- offshoreleaks.icij.org - Offshore Leaks
+- investigativedashboard.org - Investigate Dashboard Search
+- e-justice.europa.eu - European E-Justice
+
+Webcams
+
+- opentopia.com - Opentopia
+- shodan.io - Shodan
+- earthcam.com - Earthcam
+- webcams.travel - Webcams.travel
+- pictimo.com - Pictimo
+- wetter.com - Wetter.com
+- lookr.com - Lookr
+- wisuki.com - Wisuki
+
+Image/vid/doc forensics
+
+- get-metadata.com - Get-metadata
+- exif.regex.info/exif.cgi - Jeffrey Friedl's Image Metadata Viewer
+- metapicz.com/#landing - Metapicz
+- fotoforensics.com - Fotoforensics
+- 29a.ch/photo-forensics/#forensic-magnifier - Forensically
+- irfanview.com - IRFANVIEW
+- github.com/hatlord/Spiderpig - hatlord/Spiderpig
+- exifdata.com - Exifdata
+- sno.phy.queensu.ca/~phil/exiftool/ - ExifTool
+- izitru.com - Izitru
+- invid-project.eu - InVid
+
+Sharing & publishing
+
+- flickr.com - Flickr
+- pinterest.com - Pinterest
+- plus.google.com/discover - Google+
+
+Blogging, forum & other communities
+
+- labs.strava.com - Strava
+- tumblr.com - Tumblr
+- livejournal.com - LiveJournal
+- classmates.com - Classmates
+- wordpress.org - Wordpress
+- blogger.com - Blogger
+- wix.com - Wix
+- medium.com - Medium
+- proboards.com - ProBoards
+- squarespace.com - SquareSpace
+- joomla.org - Joomla
+- ghost.org - Ghost
+- weebly.com - Weebly
+
+Internet search
+
+- google.com - Google
+- yandex.com - Yandex
+- bing.start.me - Bing
+- archive.org - WaybackMachine
+- duckduckgo.com - DuckDuckGo
+- naver.com - Naver
+- baidu.com - Baidu
+- sogou.com - Sogou
+- goo.ne.jp - Goo
+- kakao.com - Kakao
+- yahoo.com - Yahoo
+- archive.is - Archive.today
+- pimeyes.com - PimEyes
+
+Geospatial/satelite data
+
+- geonames.org - GeoNames
+- synnatschke.de - Secrets of the West
+- dualmaps.com - DualMaps
+- wikimapia.org - Wikimapia
+- freegisdata.rtwilson.com - Free GIS Data
+- openrailwaymap.org - Openrailwaymap
+- maps.me - Maps.me
+- mapillary.com - Mapillary
+- maps.google.com - Google Maps
+- bing.com/maps - Bing Maps
+- mapsconnect.apple.com - Apple Maps
+- wego.here.com - Here
+- google.com/earth - Google Earth
+- descarteslabs.com - Descartes Labs
+- terraserver.com - Terra Server
+- intelligence-airbusds.com/geostore - Airbus Geostore
+- zoom.earth - Zoom.earth
+- unitar.org - Unitar
+- mapmart.com - Harris
+- earthexplorer.usgs.gov - USUG earth Explorer
+- esa.int/Our_Activities/Observing_the_Earth/Copernicus - ESA Openicus
+- planet.com - Planet
+- radiant.earth - Radiant Earth
+- noaa.gov - NOAA
+- earthdata.nasa.gov - EarthData
+- earth.esa.int/eogateway - ESA Earth Online
+- digitalglobe.com - DigitalGlobe
+- sentinel.esa.int/web/sentinel/home - Sentinel
