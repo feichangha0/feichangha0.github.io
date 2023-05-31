@@ -1,7 +1,7 @@
 ## -> recon
 - osintframework.com - osint resources collection
 - technisette.com - osint, databses, tools, tutorials
-- docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit#gid=930747607 - Bellingcat’s open source investigation toolkit
+- docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ - Bellingcat’s open source investigation toolkit
 - github.com/jivoi/awesome-osint
 - mxtoolbox.com
 - ipvoid.com
