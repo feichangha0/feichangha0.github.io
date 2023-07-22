@@ -66,12 +66,15 @@
 - pimeyes.com - reverse image search
 - privacytools.io - privacy-focused tools
 - learntech.co.il/toolscatalogue (hebrew) - a list of tools
+
 ### test for malice
 - virustotal.com - scan file(650MB)/url/hash, malware analysis
 - any.run - online sandbox for urls and files(16MB), malware analysis
+
 ### identity
 - bugmenot.com - usernames+password combos for various sites
 - thispersondoesnotexist.com - fake profile picture generator
+
 ### email services
 - temp-mail.org
 - throwawaymail.com
@@ -81,20 +84,24 @@
 - guerrillamail.com
 - mailforspam.com
 - yopmail.com
+
 ### dump
 - pastebin.com - upload text for quick sharing (may contain credential dumps, config files etc)
 - github.com/massgravel/Microsoft-Activation-Scripts OR massgrave.dev - Windows Activation Scripts (MAS) /untested
 - opendns.com - dns servers `208.67.222.222` `208.67.220.220`
 - freenom.com - free domains? also dns servers
 - vx-underground.org - collection of malware source code, samples, and papers
+
 ## forums
 - https://breached.co/ - breached forums, raidforums' successor
 - exposed.vc - exposeforums, the new breached forums?
 - https://hackforums.net/ - hackforums
+
 ## hands-on learning platforms
 - tryhackme.com
 - hackthebox.eu
 - overthewire.org
+
 ## blogs
 - fuzzysecurity.com
 - sevrosecurity.com
@@ -103,6 +110,7 @@
 - hackingloops.com
 - jhalon.github.io
 - cyber-eliya.com (hebrew)
+
 ## channels
 - [Hackersploit](https://www.youtube.com/c/HackerSploit)
 - [LiveOverflow](https://www.youtube.com/c/LiveOverflow)
@@ -112,6 +120,7 @@
 - [John Hammond](https://www.youtube.com/c/JohnHammond010)
 - [SNAP](https://www.youtube.com/c/ItSNAPGaming) (hebrew)
 - [CS50](https://www.youtube.com/@cs50)
+
 ## -> other
 - isecom.org/OSSTMM.3.pdf - Open Source Security Testing Methodolody Manual `official`
 - attack.mitre.org - mitre attack matrix `official`
