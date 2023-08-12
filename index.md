@@ -94,6 +94,7 @@
 - vx-underground.org - collection of malware source code, samples, and papers
 - spoofbox.com - call from a spoofed number
 - github.com/sindresorhus/awesome - awesome lists
+- github.com/0xsyr0/Awesome-Cybersecurity-Handbooks - security handbooks
 
 ## forums
 - https://breached.co/ - breached forums, raidforums' successor
