@@ -93,6 +93,7 @@
 - freenom.com - free domains? also dns servers
 - vx-underground.org - collection of malware source code, samples, and papers
 - spoofbox.com - call from a spoofed number
+- github.com/sindresorhus/awesome - awesome lists
 
 ## forums
 - https://breached.co/ - breached forums, raidforums' successor
