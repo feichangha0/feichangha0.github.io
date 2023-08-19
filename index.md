@@ -15,6 +15,7 @@
 - wappalyzer.com - find out what technologies a site uses
 - shodan.io - search engine for the internet of everything
 - gpt.censys.io - censysGPT
+- github.com/megadose/holehe - checks if email is registered on different sites
 
 ## -> gaining access
 - github.com/carlospolop/hacktricks OR book.hacktricks.xyz - a hacking bible
