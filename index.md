@@ -3,6 +3,7 @@
 - technisette.com | start.me/p/ZME8nR/osint - osint, databses, tools, tutorials
 - docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ - Bellingcat’s open source investigation toolkit
 - start.me/p/ZME8nR/osint
+- start.me/p/0Pqbdg/osint-500-tools
 - github.com/jivoi/awesome-osint
 - github.com/cqcore/website-osint
 - mxtoolbox.com
