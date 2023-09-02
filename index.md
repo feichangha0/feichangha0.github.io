@@ -100,6 +100,7 @@
 - github.com/0xsyr0/Awesome-Cybersecurity-Handbooks - security handbooks
 - hunter.how
 - infosecwriteups.com/bypassed-and-uploaded-a-sweet-reverse-shell-d15e1bbf5836
+- medium.com/automationmaster/how-to-forward-my-local-port-to-public-using-serveo-4979f352a3bf
 
 ## forums
 - https://breached.co/ - breached forums, raidforums' successor
