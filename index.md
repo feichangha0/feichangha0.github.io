@@ -104,6 +104,7 @@
 - infosecwriteups.com/bypassed-and-uploaded-a-sweet-reverse-shell-d15e1bbf5836
 - medium.com/automationmaster/how-to-forward-my-local-port-to-public-using-serveo-4979f352a3bf
 - youtube.com/watch?v=aBDIneSPBuA
+- maldevacademy.com - malware development courses, expensive af
 
 ## forums
 - raidforums.com - (RIP)
