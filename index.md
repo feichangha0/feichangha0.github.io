@@ -112,6 +112,7 @@
 - exposed.vc - exposeforums, the new breached forums? (RIP?)
 - breachforums.is - breached forums V2
 - hackforums.net
+- demonforums.net
 - nulled.to
 - xss.is (russian)
 - ogusers.gg
