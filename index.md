@@ -109,7 +109,9 @@
 - breached.co - breached forums, raidforums' successor (RIP)
 - exposed.vc - exposeforums, the new breached forums? (RIP?)
 - breachforums.is - breached forums V2
-- hackforums.net - hackforums
+- hackforums.net
+- nulled.to
+- xss.is (russian)
 
 ## hands-on learning platforms
 - tryhackme.com
