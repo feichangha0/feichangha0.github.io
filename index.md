@@ -104,9 +104,11 @@
 - youtube.com/watch?v=aBDIneSPBuA
 
 ## forums
-- https://breached.co/ - breached forums, raidforums' successor
-- exposed.vc - exposeforums, the new breached forums?
-- https://hackforums.net/ - hackforums
+- raidforums.com - (RIP)
+- breached.co - breached forums, raidforums' successor (RIP)
+- exposed.vc - exposeforums, the new breached forums? (RIP?)
+- breachforums.is - breached forums V2
+- hackforums.net - hackforums
 
 ## hands-on learning platforms
 - tryhackme.com
