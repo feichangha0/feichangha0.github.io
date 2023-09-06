@@ -80,6 +80,7 @@
 - thispersondoesnotexist.com - fake profile picture generator
 
 ### email services
+- protonmail.com
 - temp-mail.org
 - throwawaymail.com
 - dispostable.com
