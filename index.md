@@ -96,6 +96,7 @@
 - opendns.com - dns servers `208.67.222.222` `208.67.220.220`
 - freenom.com - free domains? also dns servers
 - vx-underground.org - collection of malware source code, samples, and papers
+- bazaar.abuse.ch
 - spoofbox.com - call from a spoofed number
 - github.com/sindresorhus/awesome - awesome lists
 - github.com/0xsyr0/Awesome-Cybersecurity-Handbooks - security handbooks
@@ -112,6 +113,7 @@
 - hackforums.net
 - nulled.to
 - xss.is (russian)
+- ogusers.gg
 
 ## hands-on learning platforms
 - tryhackme.com
