@@ -105,6 +105,7 @@
 - medium.com/automationmaster/how-to-forward-my-local-port-to-public-using-serveo-4979f352a3bf
 - youtube.com/watch?v=aBDIneSPBuA
 - maldevacademy.com - malware development courses, expensive af
+- 0xinfection.github.io/reversing - reverse engineering introduction
 
 ## forums
 - raidforums.com - (RIP)
