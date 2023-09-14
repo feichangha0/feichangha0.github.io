@@ -118,6 +118,7 @@
 - nulled.to
 - xss.is (russian)
 - ogusers.gg
+- mpgh.net - multiplayer game hacking
 
 ## hands-on learning platforms
 - tryhackme.com
