@@ -108,6 +108,11 @@
 - 0xinfection.github.io/reversing - reverse engineering introduction
 - blog.detectify.com/2019/07/31/bypassing-cloudflare-waf-with-the-origin-server-ip-address
 
+## archives
+- arxiv.org
+- archive.org
+- sci-hub.se
+
 ## forums
 - raidforums.com - (RIP)
 - breached.co - breached forums, raidforums' successor (RIP)
