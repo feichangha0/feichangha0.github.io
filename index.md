@@ -124,7 +124,10 @@
 ## hands-on learning platforms
 - tryhackme.com
 - hackthebox.eu
+- vulnhub.com
+- ctftime.org
 - overthewire.org
+- pythonchallenge.com
 
 ## blogs
 - fuzzysecurity.com
