@@ -119,6 +119,7 @@
 - xss.is (russian)
 - ogusers.gg
 - mpgh.net - multiplayer game hacking
+- unknowncheats.me
 
 ## hands-on learning platforms
 - tryhackme.com
