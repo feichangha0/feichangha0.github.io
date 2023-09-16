@@ -63,13 +63,14 @@
 ## -> toolios
 - 0x1.gitlab.io/code/CyberChef - string conversion, encoding/decoding
 - meta-webtools.com - online ip tools, converters, generators
-- base64decode.org - translate that gibberish
-- haveibeenpwned.com - who leaked your details this time?
+- base64decode.org
+- haveibeenpwned.com
 - dnsleaktest.com - ip + dns leak test, anonymity check
 - browserling.com - browser simulator
 - pimeyes.com - reverse image search
 - privacytools.io - privacy-focused tools
 - learntech.co.il/toolscatalogue (hebrew) - a list of tools
+- kycnot.me
 
 ### test for malice
 - virustotal.com - scan file(650MB)/url/hash, malware analysis
@@ -89,6 +90,7 @@
 - guerrillamail.com
 - mailforspam.com
 - yopmail.com
+- mailnesia.com
 
 ### dump
 - pastebin.com - upload text for quick sharing (may contain credential dumps, config files etc)
