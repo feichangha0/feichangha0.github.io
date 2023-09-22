@@ -124,8 +124,10 @@
 - hackforums.net
 - demonforums.net
 - nulled.to
-- onniforums.com - untested
-- ransomed.vc - untested
+- onniforums.com - needs testing
+- ransomed.vc - needs testing
+- cracked.io - needs testing
+- exploit.in - needs testing (russian)
 - xss.is (russian)
 - ogusers.gg
 - mpgh.net - multiplayer game hacking
