@@ -110,6 +110,8 @@
 - 0xinfection.github.io/reversing - reverse engineering introduction
 - blog.detectify.com/2019/07/31/bypassing-cloudflare-waf-with-the-origin-server-ip-address
 - packetstormsecurity.com
+- ransomwatch.telemetry.ltd/#/
+- ransomlook.io
 
 ## archives
 - arxiv.org
