@@ -7,10 +7,13 @@
 - github.com/jivoi/awesome-osint
 - github.com/cqcore/website-osint
 - start.me/p/DPYPMz/the-ultimate-osint-collection
+- ping.eu
 - mxtoolbox.com
 - ipvoid.com
 - web-check.as93.net
 - whois.com/whois - get domain + owner info
+- whois.domaintools.com - whois
+- lookup.icann.org - whois
 - urlscan.io - hostnames, dns records
 - searchdns.netcraft.com - subdomain search
 - builtwith.com - find out what technologies a site uses
@@ -25,6 +28,7 @@
 ### scanning, enumeration
 - nmap.online - remote nmap port scanning
 - hackertarget.com - remote nmap, dns and ip tools
+- yougetsignal.com/
 - github.com/maurosoria/dirsearch
 
 ### exploit, cve
@@ -71,6 +75,7 @@
 - privacytools.io - privacy-focused tools
 - learntech.co.il/toolscatalogue (hebrew) - a list of tools
 - kycnot.me
+- pentest-tools.com
 
 ### test for malice
 - virustotal.com - scan file(650MB)/url/hash, malware analysis
