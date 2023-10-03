@@ -97,6 +97,7 @@
 - mailforspam.com
 - yopmail.com
 - mailnesia.com
+- tutanota.com
 
 ### dump
 - pastebin.com - upload text for quick sharing (may contain credential dumps, config files etc)
