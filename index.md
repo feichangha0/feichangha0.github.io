@@ -147,6 +147,7 @@
 - ctftime.org
 - kc7cyber.com
 - letsdefend.io
+- securityblue.team
 - overthewire.org
 - pythonchallenge.com
 
