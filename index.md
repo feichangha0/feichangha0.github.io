@@ -79,6 +79,7 @@
 
 ### test for malice
 - virustotal.com - scan file(650MB)/url/hash, malware analysis
+- filescan.io
 - any.run - online sandbox for urls and files(16MB), malware analysis
 
 ### identity
