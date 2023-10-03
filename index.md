@@ -118,6 +118,10 @@
 - packetstormsecurity.com
 - ransomwatch.telemetry.ltd/#/
 - ransomlook.io
+- phrack.org
+- dark.fail
+- darknetlive.com
+- onion.live
 
 ## archives
 - arxiv.org
