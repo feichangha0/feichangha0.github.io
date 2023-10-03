@@ -145,6 +145,8 @@
 - hackthebox.eu
 - vulnhub.com
 - ctftime.org
+- kc7cyber.com
+- letsdefend.io
 - overthewire.org
 - pythonchallenge.com
 
