@@ -71,6 +71,7 @@
 - meta-webtools.com - online ip tools, converters, generators
 - base64decode.org
 - haveibeenpwned.com
+- dehashed.com
 - dnsleaktest.com - ip + dns leak test, anonymity check
 - browserling.com - browser simulator
 - pimeyes.com - reverse image search
