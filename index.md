@@ -1,4 +1,3 @@
-## -> recon
 - osintframework.com - osint resources collection
 - technisette.com | start.me/p/ZME8nR/osint - osint, databses, tools, tutorials
 - start.me/p/aLBELX/tutorials - also technisette
@@ -13,7 +12,7 @@
 - mxtoolbox.com
 - ipvoid.com
 - web-check.as93.net
-- whois.com/whois - get domain + owner info
+- whois.com - get domain + owner info
 - whois.domaintools.com - whois
 - lookup.icann.org - whois
 - urlscan.io - hostnames, dns records
@@ -67,22 +66,6 @@
 - filescan.io
 - any.run - online sandbox for urls and files(16MB), malware analysis
 
-- bugmenot.com - usernames+password combos for various sites
-- thispersondoesnotexist.com - fake profile picture generator
-
-# email services
-- protonmail.com
-- temp-mail.org
-- throwawaymail.com
-- dispostable.com
-- 10minutemail.com
-- emailondeck.com
-- guerrillamail.com
-- mailforspam.com
-- yopmail.com
-- mailnesia.com
-- tutanota.com
-
 - pastebin.com - upload text for quick sharing (may contain credential dumps, config files etc)
 - github.com/massgravel/Microsoft-Activation-Scripts OR massgrave.dev - Windows Activation Scripts (MAS) /untested
 - opendns.com - dns servers `208.67.222.222` `208.67.220.220`
@@ -108,6 +91,22 @@
 - darknetlive.com
 - onion.live
 - stressthem.se - stresser
+
+- bugmenot.com - usernames+password combos for various sites
+- thispersondoesnotexist.com - fake profile picture generator
+
+# email services
+- protonmail.com
+- temp-mail.org
+- throwawaymail.com
+- dispostable.com
+- 10minutemail.com
+- emailondeck.com
+- guerrillamail.com
+- mailforspam.com
+- yopmail.com
+- mailnesia.com
+- tutanota.com
 
 ## archives
 - arxiv.org
