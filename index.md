@@ -1,12 +1,14 @@
 ## -> recon
 - osintframework.com - osint resources collection
 - technisette.com | start.me/p/ZME8nR/osint - osint, databses, tools, tutorials
+- start.me/p/aLBELX/tutorials - also technisette
 - docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ - Bellingcat’s open source investigation toolkit
 - start.me/p/ZME8nR/osint
 - start.me/p/0Pqbdg/osint-500-tools
 - github.com/jivoi/awesome-osint
 - github.com/cqcore/website-osint
 - start.me/p/DPYPMz/the-ultimate-osint-collection
+- start.me/p/b5ynOQ/sprp77-search-engines
 - ping.eu
 - mxtoolbox.com
 - ipvoid.com
@@ -76,6 +78,7 @@
 - learntech.co.il/toolscatalogue (hebrew) - a list of tools
 - kycnot.me
 - pentest-tools.com
+- github.com/A-poc/RedTeam-Tools
 
 ### test for malice
 - virustotal.com - scan file(650MB)/url/hash, malware analysis
@@ -112,7 +115,8 @@
 - hunter.how
 - infosecwriteups.com/bypassed-and-uploaded-a-sweet-reverse-shell-d15e1bbf5836
 - medium.com/automationmaster/how-to-forward-my-local-port-to-public-using-serveo-4979f352a3bf
-- youtube.com/watch?v=aBDIneSPBuA
+- youtube.com/watch?v=aBDIneSPBuA - Advanced Social-Engineering Pentest - Embedding Payloads Into Email Messages (Kali-Linux) 2023
+- search.0t.rocks
 - maldevacademy.com - malware development courses, expensive af
 - 0xinfection.github.io/reversing - reverse engineering introduction
 - blog.detectify.com/2019/07/31/bypassing-cloudflare-waf-with-the-origin-server-ip-address
@@ -123,6 +127,8 @@
 - dark.fail
 - darknetlive.com
 - onion.live
+- stressthem.se - stresser
+- unprotect.it - evasion techniques
 
 ## archives
 - arxiv.org
