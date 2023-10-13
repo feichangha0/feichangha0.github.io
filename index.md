@@ -37,16 +37,16 @@
 - netsparker.com/blog/web-security/sql-injection-cheat-sheet - sql inection cheat sheet
 - github.com/pentestmonkey/php-reverse-shell
 - pwnwiki.io
-- [Download a File with an Alternative PowerShell wget Command by June Castillote](https://adamtheautomator.com/powershell-download-file/)
-- [(Almost) All The Ways to File Transfer by PenTest_duck](https://medium.com/@PenTest_duck/almost-all-the-ways-to-file-transfer-1bd6bf710d65)
+- adamtheautomator.com/powershell-download-file - Download a File with an Alternative PowerShell wget Command by June Castillote
+- medium.com/@PenTest_duck/almost-all-the-ways-to-file-transfer-1bd6bf710d65 - (Almost) All The Ways to File Transfer by PenTest_duck
 - unprotect.it - obfuscation and defense evasion, malware hardening
 
 - github.com/carlospolop/PEASS-ng - privilege escalation automation
 - gtfobins.github.io - guide list on unix binaries exploitation
 - lolbas-project.github.io - guide list on windows binaries exploitation
 - fuzzysecurity.com/tutorials/16.html
-- sevrosecurity.com/checklists/windows-priv-esc/
-- blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+- sevrosecurity.com/checklists/windows-priv-esc
+- blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation
 
 
 - 0x1.gitlab.io/code/CyberChef - string conversion, encoding/decoding
