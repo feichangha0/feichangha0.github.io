@@ -130,6 +130,7 @@
 - ogusers.gg
 - mpgh.net - multiplayer game hacking
 - unknowncheats.me
+- guidedhacking.com
 
 ## hands-on learning platforms
 - tryhackme.com
