@@ -131,6 +131,7 @@
 - mpgh.net - multiplayer game hacking
 - unknowncheats.me
 - guidedhacking.com
+- blackhatworld.com
 
 ## hands-on learning platforms
 - tryhackme.com
