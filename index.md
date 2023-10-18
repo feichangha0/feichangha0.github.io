@@ -1,14 +1,4 @@
-- osintframework.com - osint resources collection
-- start.me/p/ZME8nR/osint - osint, databses, tools, tutorials
-- start.me/p/aLBELX/tutorials - also technisette
-- technisette.com
-- docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ - Bellingcat’s open source investigation toolkit
-- start.me/p/ZME8nR/osint
-- start.me/p/0Pqbdg/osint-500-tools
-- github.com/jivoi/awesome-osint
-- github.com/cqcore/website-osint
-- start.me/p/DPYPMz/the-ultimate-osint-collection
-- start.me/p/b5ynOQ/sprp77-search-engines
+:--
 - ping.eu
 - mxtoolbox.com
 - ipvoid.com
@@ -96,7 +86,21 @@
 - bugmenot.com - usernames+password combos for various sites
 - thispersondoesnotexist.com - fake profile picture generator
 
-# email services
+## osint
+- osintframework.com - osint resources collection
+- start.me/p/ZME8nR/osint - osint, databses, tools, tutorials
+- start.me/p/aLBELX/tutorials - also technisette
+- technisette.com
+- docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ - Bellingcat’s open source investigation toolkit
+- start.me/p/ZME8nR/osint
+- start.me/p/0Pqbdg/osint-500-tools
+- github.com/jivoi/awesome-osint
+- github.com/cqcore/website-osint
+- start.me/p/DPYPMz/the-ultimate-osint-collection
+- start.me/p/b5ynOQ/sprp77-search-engines
+
+
+## email services
 - protonmail.com
 - temp-mail.org
 - throwawaymail.com
