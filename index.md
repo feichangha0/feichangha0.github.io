@@ -1,4 +1,3 @@
-:--
 - ping.eu
 - mxtoolbox.com
 - ipvoid.com
@@ -21,7 +20,6 @@
 - github.com/secureauthcorp/impacket - python library for network protocols shenanigans
 - github.com/Hackplayers/evil-winrm - evil remote windows management
 - github.com/danielmiessler/SecLists - worst username and password lists
-- crackstation.net - online hash cracking
 - github.com/swisskyrepo/PayloadsAllTheThings - payloads and bypasses for webapps
 - github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Methodology%20and%20Resources
 - netsparker.com/blog/web-security/sql-injection-cheat-sheet - sql inection cheat sheet
@@ -44,10 +42,12 @@
 - base64decode.org
 - haveibeenpwned.com
 - dehashed.com
+- crackstation.net - online hash cracking
 - dnsleaktest.com - ip + dns leak test, anonymity check
 - browserling.com - browser simulator
 - pimeyes.com - reverse image search
 - privacytools.io - privacy-focused tools
+- opensourcealternative.to
 - learntech.co.il/toolscatalogue (hebrew) - a list of tools
 - kycnot.me
 - pentest-tools.com
@@ -89,16 +89,14 @@
 ## osint
 - osintframework.com - osint resources collection
 - start.me/p/ZME8nR/osint - osint, databses, tools, tutorials
-- start.me/p/aLBELX/tutorials - also technisette
 - technisette.com
-- docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ - Bellingcat’s open source investigation toolkit
-- start.me/p/ZME8nR/osint
+- start.me/p/aLBELX/tutorials - technisette
+- docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ - bellingcat
 - start.me/p/0Pqbdg/osint-500-tools
 - github.com/jivoi/awesome-osint
 - github.com/cqcore/website-osint
 - start.me/p/DPYPMz/the-ultimate-osint-collection
 - start.me/p/b5ynOQ/sprp77-search-engines
-
 
 ## email services
 - protonmail.com
@@ -167,7 +165,7 @@
 - [SNAP](https://www.youtube.com/c/ItSNAPGaming) (hebrew)
 - [CS50](https://www.youtube.com/@cs50)
 
-## -> other
+## other
 - isecom.org/OSSTMM.3.pdf - Open Source Security Testing Methodolody Manual `official`
 - attack.mitre.org - mitre attack matrix `official`
 - portswigger.net/web-security/learning-path - webapp pentesting course by burp suite's creators
