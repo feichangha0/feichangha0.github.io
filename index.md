@@ -86,7 +86,9 @@
 - bugmenot.com - usernames+password combos for various sites
 - thispersondoesnotexist.com - fake profile picture generator
 
-## url shortening
+<details>
+<summary><h3>url shortening</h3></summary>
+
 - bit.ly
 - goo.gl
 - ow.ly
@@ -95,8 +97,11 @@
 - tiny.pl
 - tinyurl.com
 - x.co
+</details>
 
-## osint
+<details>
+<summary><h3>osint</h3></summary>
+
 - osintframework.com - osint resources collection
 - start.me/p/ZME8nR/osint - osint, databses, tools, tutorials
 - technisette.com
@@ -107,8 +112,11 @@
 - github.com/cqcore/website-osint
 - start.me/p/DPYPMz/the-ultimate-osint-collection
 - start.me/p/b5ynOQ/sprp77-search-engines
+</details>
 
-## email services
+<details>
+<summary><h3>email services</h3></summary>
+
 - protonmail.com
 - temp-mail.org
 - throwawaymail.com
@@ -120,13 +128,19 @@
 - yopmail.com
 - mailnesia.com
 - tutanota.com
+</details>
 
-## archives
+<details>
+<summary><h3>archives</h3></summary>
+
 - arxiv.org
 - archive.org - internet archive, wayback machine
 - sci-hub.se
+</details>
 
-## forums
+<details>
+<summary><h3>forums</h3></summary>
+
 - raidforums.com - (RIP)
 - breached.co - breached forums, raidforums' successor (RIP)
 - exposed.vc - exposeforums, the new breached forums? (RIP?)
@@ -144,8 +158,11 @@
 - unknowncheats.me
 - guidedhacking.com
 - blackhatworld.com
+</details>
 
-## hands-on learning platforms
+<details>
+<summary><h3>learning platforms</h3></summary>
+
 - tryhackme.com
 - hackthebox.eu
 - vulnhub.com
@@ -155,8 +172,11 @@
 - securityblue.team
 - overthewire.org
 - pythonchallenge.com
+</details>
 
-## blogs
+<details>
+<summary><h3>blogs</h3></summary>
+
 - fuzzysecurity.com
 - sevrosecurity.com
 - blog.g0tmi1k.com
@@ -164,8 +184,11 @@
 - hackingloops.com
 - jhalon.github.io
 - cyber-eliya.com (hebrew)
+</details>
 
-## channels
+<details>
+<summary><h3>channels</h3></summary>
+
 - [Hackersploit](https://www.youtube.com/c/HackerSploit)
 - [LiveOverflow](https://www.youtube.com/c/LiveOverflow)
 - [Null Byte](https://www.youtube.com/c/NullByteWHT)
@@ -174,6 +197,7 @@
 - [John Hammond](https://www.youtube.com/c/JohnHammond010)
 - [SNAP](https://www.youtube.com/c/ItSNAPGaming) (hebrew)
 - [CS50](https://www.youtube.com/@cs50)
+</details>
 
 ## other
 - isecom.org/OSSTMM.3.pdf - Open Source Security Testing Methodolody Manual `official`
