@@ -87,7 +87,7 @@
 - thispersondoesnotexist.com - fake profile picture generator
 
 
-##url shortening
+## url shortening
 
 - bit.ly
 - goo.gl
@@ -100,7 +100,7 @@
 
 
 
-##osint
+## osint
 
 - osintframework.com - osint resources collection
 - start.me/p/ZME8nR/osint - osint, databses, tools, tutorials
@@ -115,7 +115,7 @@
 
 
 
-##email services
+## email services
 
 - protonmail.com
 - temp-mail.org
@@ -131,7 +131,7 @@
 
 
 
-##archives
+## archives
 
 - arxiv.org
 - archive.org - internet archive, wayback machine
@@ -139,7 +139,7 @@
 
 
 
-##forums
+## forums
 
 - raidforums.com - (RIP)
 - breached.co - breached forums, raidforums' successor (RIP)
@@ -161,7 +161,7 @@
 
 
 
-##learning platforms
+## learning platforms
 
 - tryhackme.com
 - hackthebox.eu
@@ -175,7 +175,7 @@
 
 
 
-##blogs
+## blogs
 
 - fuzzysecurity.com
 - sevrosecurity.com
@@ -187,7 +187,7 @@
 
 
 
-##channels
+## channels
 
 - [Hackersploit](https://www.youtube.com/c/HackerSploit)
 - [LiveOverflow](https://www.youtube.com/c/LiveOverflow)
@@ -199,7 +199,7 @@
 - [CS50](https://www.youtube.com/@cs50)
 
 
-## other
+##  other
 - isecom.org/OSSTMM.3.pdf - Open Source Security Testing Methodolody Manual `official`
 - attack.mitre.org - mitre attack matrix `official`
 - portswigger.net/web-security/learning-path - webapp pentesting course by burp suite's creators
