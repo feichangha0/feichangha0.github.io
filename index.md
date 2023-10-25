@@ -86,8 +86,8 @@
 - bugmenot.com - usernames+password combos for various sites
 - thispersondoesnotexist.com - fake profile picture generator
 
-<details>
-<summary><h3>url shortening</h3></summary>
+
+##url shortening
 
 - bit.ly
 - goo.gl
@@ -97,10 +97,10 @@
 - tiny.pl
 - tinyurl.com
 - x.co
-</details>
 
-<details>
-<summary><h3>osint</h3></summary>
+
+
+##osint
 
 - osintframework.com - osint resources collection
 - start.me/p/ZME8nR/osint - osint, databses, tools, tutorials
@@ -112,10 +112,10 @@
 - github.com/cqcore/website-osint
 - start.me/p/DPYPMz/the-ultimate-osint-collection
 - start.me/p/b5ynOQ/sprp77-search-engines
-</details>
 
-<details>
-<summary><h3>email services</h3></summary>
+
+
+##email services
 
 - protonmail.com
 - temp-mail.org
@@ -128,18 +128,18 @@
 - yopmail.com
 - mailnesia.com
 - tutanota.com
-</details>
 
-<details>
-<summary><h3>archives</h3></summary>
+
+
+##archives
 
 - arxiv.org
 - archive.org - internet archive, wayback machine
 - sci-hub.se
-</details>
 
-<details>
-<summary><h3>forums</h3></summary>
+
+
+##forums
 
 - raidforums.com - (RIP)
 - breached.co - breached forums, raidforums' successor (RIP)
@@ -158,10 +158,10 @@
 - unknowncheats.me
 - guidedhacking.com
 - blackhatworld.com
-</details>
 
-<details>
-<summary><h3>learning platforms</h3></summary>
+
+
+##learning platforms
 
 - tryhackme.com
 - hackthebox.eu
@@ -172,10 +172,10 @@
 - securityblue.team
 - overthewire.org
 - pythonchallenge.com
-</details>
 
-<details>
-<summary><h3>blogs</h3></summary>
+
+
+##blogs
 
 - fuzzysecurity.com
 - sevrosecurity.com
@@ -184,10 +184,10 @@
 - hackingloops.com
 - jhalon.github.io
 - cyber-eliya.com (hebrew)
-</details>
 
-<details>
-<summary><h3>channels</h3></summary>
+
+
+##channels
 
 - [Hackersploit](https://www.youtube.com/c/HackerSploit)
 - [LiveOverflow](https://www.youtube.com/c/LiveOverflow)
@@ -197,7 +197,7 @@
 - [John Hammond](https://www.youtube.com/c/JohnHammond010)
 - [SNAP](https://www.youtube.com/c/ItSNAPGaming) (hebrew)
 - [CS50](https://www.youtube.com/@cs50)
-</details>
+
 
 ## other
 - isecom.org/OSSTMM.3.pdf - Open Source Security Testing Methodolody Manual `official`
