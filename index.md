@@ -1,90 +1,128 @@
-- ping.eu
-- mxtoolbox.com
-- ipvoid.com
-- web-check.as93.net
-- whois.com - get domain + owner info
-- whois.domaintools.com - whois
-- lookup.icann.org - whois
-- urlscan.io - hostnames, dns records
-- searchdns.netcraft.com - subdomain search
-- builtwith.com - find out what technologies a site uses
-- wappalyzer.com - find out what technologies a site uses
-- shodan.io - search engine for the internet of everything
-- gpt.censys.io - censysGPT
-- github.com/megadose/holehe - checks if email is registered on different sites
-- github.com/carlospolop/hacktricks OR book.hacktricks.xyz - a hacking bible
-- nmap.online - remote nmap port scanning
-- hackertarget.com - remote nmap, dns and ip tools
-- yougetsignal.com
-- github.com/maurosoria/dirsearch
-- github.com/secureauthcorp/impacket - python library for network protocols shenanigans
-- github.com/Hackplayers/evil-winrm - evil remote windows management
-- github.com/danielmiessler/SecLists - worst username and password lists
-- github.com/swisskyrepo/PayloadsAllTheThings - payloads and bypasses for webapps
-- github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Methodology%20and%20Resources
-- netsparker.com/blog/web-security/sql-injection-cheat-sheet - sql inection cheat sheet
-- github.com/pentestmonkey/php-reverse-shell
-- pwnwiki.io
-- adamtheautomator.com/powershell-download-file - Download a File with an Alternative PowerShell wget Command by June Castillote
-- medium.com/@PenTest_duck/almost-all-the-ways-to-file-transfer-1bd6bf710d65 - (Almost) All The Ways to File Transfer by PenTest_duck
-- unprotect.it - obfuscation and defense evasion, malware hardening
+## creme de la creme
 
-- github.com/carlospolop/PEASS-ng - privilege escalation automation
-- gtfobins.github.io - guide list on unix binaries exploitation
-- lolbas-project.github.io - guide list on windows binaries exploitation
-- fuzzysecurity.com/tutorials/16.html
-- sevrosecurity.com/checklists/windows-priv-esc
-- blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation
+- github.com/sindresorhus/awesome - awesome lists
+- github.com/0xsyr0/Awesome-Cybersecurity-Handbooks - security handbooks
+- github.com/A-poc/RedTeam-Tools
 
+
+
+## unsorted
 
 - 0x1.gitlab.io/code/CyberChef - string conversion, encoding/decoding
-- meta-webtools.com - online ip tools, converters, generators
+- meta-webtools.com - online ip tools, converters, generators (RIP?)
 - base64decode.org
 - haveibeenpwned.com
 - dehashed.com
-- crackstation.net - online hash cracking
-- dnsleaktest.com - ip + dns leak test, anonymity check
-- browserling.com - browser simulator
-- pimeyes.com - reverse image search
-- privacytools.io - privacy-focused tools
-- opensourcealternative.to
-- learntech.co.il/toolscatalogue (hebrew) - a list of tools
-- kycnot.me
-- pentest-tools.com
-- github.com/A-poc/RedTeam-Tools
-
-- virustotal.com - scan file(650MB)/url/hash, malware analysis
-- filescan.io
-- any.run - online sandbox for urls and files(16MB), malware analysis
-
 - pastebin.com - upload text for quick sharing (may contain credential dumps, config files etc)
 - github.com/massgravel/Microsoft-Activation-Scripts OR massgrave.dev - Windows Activation Scripts (MAS) /untested
 - opendns.com - dns servers `208.67.222.222` `208.67.220.220`
 - freenom.com - free domains? also dns servers
 - vx-underground.org - collection of malware source code, samples, and papers
-- bazaar.abuse.ch
 - spoofbox.com - call from a spoofed number
-- github.com/sindresorhus/awesome - awesome lists
-- github.com/0xsyr0/Awesome-Cybersecurity-Handbooks - security handbooks
-- hunter.how
 - infosecwriteups.com/bypassed-and-uploaded-a-sweet-reverse-shell-d15e1bbf5836
 - medium.com/automationmaster/how-to-forward-my-local-port-to-public-using-serveo-4979f352a3bf
-- youtube.com/watch?v=aBDIneSPBuA - Advanced Social-Engineering Pentest - Embedding Payloads Into Email Messages (Kali-Linux) 2023
 - search.0t.rocks
 - maldevacademy.com - malware development courses, expensive af
-- 0xinfection.github.io/reversing - reverse engineering introduction
-- blog.detectify.com/2019/07/31/bypassing-cloudflare-waf-with-the-origin-server-ip-address
-- packetstormsecurity.com
 - ransomwatch.telemetry.ltd
 - ransomlook.io
-- phrack.org
 - dark.fail
 - darknetlive.com
 - onion.live
 - stressthem.se - stresser
 
+
+
+## hax tutorials
+
+- pwnwiki.io
+- github.com/carlospolop/hacktricks OR book.hacktricks.xyz - a hacking bible
+- github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Methodology%20and%20Resources
+- adamtheautomator.com/powershell-download-file - Download a File with an Alternative PowerShell wget Command by June Castillote
+- medium.com/@PenTest_duck/almost-all-the-ways-to-file-transfer-1bd6bf710d65 - (Almost) All The Ways to File Transfer by PenTest_duck
+- unprotect.it - obfuscation and defense evasion, malware hardening
+- gtfobins.github.io - guide list on unix binaries exploitation
+- lolbas-project.github.io - guide list on windows binaries exploitation
+- fuzzysecurity.com/tutorials/16.html
+- sevrosecurity.com/checklists/windows-priv-esc
+- blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation
+- youtube.com/watch?v=aBDIneSPBuA - Advanced Social-Engineering Pentest - Embedding Payloads Into Email Messages (Kali-Linux) 2023
+- 0xinfection.github.io/reversing - reverse engineering introduction
+- blog.detectify.com/2019/07/31/bypassing-cloudflare-waf-with-the-origin-server-ip-address
+
+
+
+## hax tools
+
+- github.com/maurosoria/dirsearch
+- github.com/carlospolop/PEASS-ng - privilege escalation automation
+- github.com/secureauthcorp/impacket - python library for network protocols shenanigans
+- github.com/Hackplayers/evil-winrm - evil remote windows management
+- github.com/danielmiessler/SecLists - worst username and password lists
+- github.com/swisskyrepo/PayloadsAllTheThings - payloads and bypasses for webapps
+- github.com/pentestmonkey/php-reverse-shell
+- netsparker.com/blog/web-security/sql-injection-cheat-sheet - sql inection cheat sheet
+- crackstation.net - online hash cracking
+
+
+
+## opsec
+
+- dnsleaktest.com - ip + dns leak test, anonymity check
 - bugmenot.com - usernames+password combos for various sites
 - thispersondoesnotexist.com - fake profile picture generator
+
+### email services
+
+- protonmail.com
+- temp-mail.org
+- throwawaymail.com
+- dispostable.com
+- 10minutemail.com
+- emailondeck.com
+- guerrillamail.com
+- mailforspam.com
+- yopmail.com
+- mailnesia.com
+- tutanota.com
+
+
+
+## recon and enum
+
+- web-check.as93.net
+- hackertarget.com - remote nmap, dns and ip tools
+- hunter.how
+- yougetsignal.com
+- searchdns.netcraft.com - subdomain search
+- ping.eu
+- pentest-tools.com
+- mxtoolbox.com
+- ipvoid.com
+- whois.com - get domain + owner info
+- whois.domaintools.com - whois
+- lookup.icann.org - whois
+- nmap.online - remote nmap port scanning
+- github.com/megadose/holehe - checks if email is registered on different sites
+- builtwith.com - find out what technologies a site uses
+- wappalyzer.com - find out what technologies a site uses
+- shodan.io - search engine for the internet of everything
+- gpt.censys.io - censysGPT
+
+
+## threat intel
+
+- urlscan.io - hostnames, dns records
+- virustotal.com - scan file(650MB)/url/hash, malware analysis
+- filescan.io
+- bazaar.abuse.ch
+
+
+
+## sandbox and analysis
+
+- any.run - online sandbox for urls and files(16MB), malware analysis
+- browserling.com - browser simulator
+
 
 
 ## url shortening
@@ -102,6 +140,9 @@
 
 ## osint
 
+- pimeyes.com - reverse image search
+
+### collections
 - osintframework.com - osint resources collection
 - start.me/p/ZME8nR/osint - osint, databses, tools, tutorials
 - technisette.com
@@ -112,22 +153,6 @@
 - github.com/cqcore/website-osint
 - start.me/p/DPYPMz/the-ultimate-osint-collection
 - start.me/p/b5ynOQ/sprp77-search-engines
-
-
-
-## email services
-
-- protonmail.com
-- temp-mail.org
-- throwawaymail.com
-- dispostable.com
-- 10minutemail.com
-- emailondeck.com
-- guerrillamail.com
-- mailforspam.com
-- yopmail.com
-- mailnesia.com
-- tutanota.com
 
 
 
@@ -161,6 +186,14 @@
 
 
 
+## privacy
+
+- kycnot.me
+- privacytools.io - privacy-focused tools
+- opensourcealternative.to
+
+
+
 ## learning platforms
 
 - tryhackme.com
@@ -184,6 +217,8 @@
 - hackingloops.com
 - jhalon.github.io
 - cyber-eliya.com (hebrew)
+- packetstormsecurity.com
+- phrack.org
 
 
 
@@ -199,6 +234,7 @@
 - [CS50](https://www.youtube.com/@cs50)
 
 
+
 ##  other
 - isecom.org/OSSTMM.3.pdf - Open Source Security Testing Methodolody Manual `official`
 - attack.mitre.org - mitre attack matrix `official`
@@ -211,3 +247,4 @@
 - cvedetails.com 
 - cve.mitre.org
 - cve.org
+- learntech.co.il/toolscatalogue (hebrew) - a list of tools
