@@ -198,15 +198,17 @@
 
 ## channels
 
-- [Mental Outlaw](https://www.youtube.com/@MentalOutlaw)
-- [Louis Rossman](https://www.youtube.com/@rossmanngroup)
-- [The Hated One](https://www.youtube.com/@TheHatedOne)
 - [Hackersploit](https://www.youtube.com/c/HackerSploit)
 - [LiveOverflow](https://www.youtube.com/c/LiveOverflow)
+- [IppSec](https://www.youtube.com/@ippsec)
 - [Null Byte](https://www.youtube.com/c/NullByteWHT)
 - [Tech69](https://www.youtube.com/c/Tech69YT)
 - [zSecurity](https://www.youtube.com/c/zSecurity)
 - [John Hammond](https://www.youtube.com/c/JohnHammond010)
+- [Guided Hacking](https://www.youtube.com/@GuidedHacking)
+- [Mental Outlaw](https://www.youtube.com/@MentalOutlaw)
+- [Louis Rossman](https://www.youtube.com/@rossmanngroup)
+- [The Hated One](https://www.youtube.com/@TheHatedOne)
 - [SNAP](https://www.youtube.com/c/ItSNAPGaming) (hebrew)
 - [CS50](https://www.youtube.com/@cs50)
 
