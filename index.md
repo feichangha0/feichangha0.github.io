@@ -6,32 +6,6 @@
 
 
 
-## unsorted
-
-- 0x1.gitlab.io/code/CyberChef - string conversion, encoding/decoding
-- meta-webtools.com - online ip tools, converters, generators (RIP?)
-- base64decode.org
-- haveibeenpwned.com
-- dehashed.com
-- pastebin.com - upload text for quick sharing (may contain credential dumps, config files etc)
-- github.com/massgravel/Microsoft-Activation-Scripts OR massgrave.dev - Windows Activation Scripts (MAS) /untested
-- opendns.com - dns servers `208.67.222.222` `208.67.220.220`
-- freenom.com - free domains? also dns servers
-- vx-underground.org - collection of malware source code, samples, and papers
-- spoofbox.com - call from a spoofed number
-- infosecwriteups.com/bypassed-and-uploaded-a-sweet-reverse-shell-d15e1bbf5836
-- medium.com/automationmaster/how-to-forward-my-local-port-to-public-using-serveo-4979f352a3bf
-- search.0t.rocks
-- maldevacademy.com - malware development courses, expensive af
-- ransomwatch.telemetry.ltd
-- ransomlook.io
-- dark.fail
-- darknetlive.com
-- onion.live
-- stressthem.se - stresser
-
-
-
 ## hax tutorials
 
 - pwnwiki.io
@@ -42,6 +16,7 @@
 - unprotect.it - obfuscation and defense evasion, malware hardening
 - gtfobins.github.io - guide list on unix binaries exploitation
 - lolbas-project.github.io - guide list on windows binaries exploitation
+- infosecwriteups.com/bypassed-and-uploaded-a-sweet-reverse-shell-d15e1bbf5836
 - fuzzysecurity.com/tutorials/16.html
 - sevrosecurity.com/checklists/windows-priv-esc
 - blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation
@@ -112,8 +87,6 @@
 ## threat intel
 
 - urlscan.io - hostnames, dns records
-- virustotal.com - scan file(650MB)/url/hash, malware analysis
-- filescan.io
 - bazaar.abuse.ch
 
 
@@ -122,7 +95,8 @@
 
 - any.run - online sandbox for urls and files(16MB), malware analysis
 - browserling.com - browser simulator
-
+- virustotal.com - scan file(650MB)/url/hash, malware analysis
+- filescan.io
 
 
 ## url shortening
@@ -235,16 +209,46 @@
 
 
 
-##  other
-- isecom.org/OSSTMM.3.pdf - Open Source Security Testing Methodolody Manual `official`
-- attack.mitre.org - mitre attack matrix `official`
+## cve
+
+- exploit-db.com - exploit database
+- cvedetails.com 
+- cve.mitre.org
+- cve.org
+
+
+
+## unsorted
+
+- 0x1.gitlab.io/code/CyberChef - string conversion, encoding/decoding
+- meta-webtools.com - online ip tools, converters, generators (RIP?)
+- base64decode.org
+- haveibeenpwned.com
+- dehashed.com
+- pastebin.com - upload text for quick sharing (may contain credential dumps, config files etc)
+- github.com/massgravel/Microsoft-Activation-Scripts OR massgrave.dev - Windows Activation Scripts (MAS) /untested
+- opendns.com - dns servers `208.67.222.222` `208.67.220.220`
+- freenom.com - free domains? also dns servers
+- vx-underground.org - collection of malware source code, samples, and papers
+- spoofbox.com - call from a spoofed number
+- search.0t.rocks
+- maldevacademy.com - malware development courses, expensive af
+- ransomwatch.telemetry.ltd
+- ransomlook.io
+- dark.fail
+- darknetlive.com
+- onion.live
+- stressthem.se - stresser
+
+
+
+## bookmarks
+- medium.com/automationmaster/how-to-forward-my-local-port-to-public-using-serveo-4979f352a3bf
+- isecom.org/OSSTMM.3.pdf - Open Source Security Testing Methodolody Manual
+- attack.mitre.org - mitre attack matrix
 - portswigger.net/web-security/learning-path - webapp pentesting course by burp suite's creators
 - skillsforall.com/catalog - free online courses for tech jobs by cisco
 - sushant747.gitbooks.io/total-oscp-guide - notes for oscp
 - code-projects.org - open source projects and tutorials
 - freecodecamp.org/news/here-are-380-ivy-league-courses-you-can-take-online-right-now-for-free-9b3ffcbd7b8c/ - free courses
-- exploit-db.com - exploit database
-- cvedetails.com 
-- cve.mitre.org
-- cve.org
 - learntech.co.il/toolscatalogue (hebrew) - a list of tools
