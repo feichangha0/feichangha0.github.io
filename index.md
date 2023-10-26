@@ -59,6 +59,7 @@
 - yopmail.com
 - mailnesia.com
 - tutanota.com
+- skiff.com
 
 
 
