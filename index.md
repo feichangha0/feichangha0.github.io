@@ -86,7 +86,7 @@
 
 ## threat intel
 
-- urlscan.io - hostnames, dns records
+- urlscan.io
 - bazaar.abuse.ch
 
 
@@ -198,6 +198,9 @@
 
 ## channels
 
+- [Mental Outlaw](https://www.youtube.com/@MentalOutlaw)
+- [Louis Rossman](https://www.youtube.com/@rossmanngroup)
+- [The Hated One](https://www.youtube.com/@TheHatedOne)
 - [Hackersploit](https://www.youtube.com/c/HackerSploit)
 - [LiveOverflow](https://www.youtube.com/c/LiveOverflow)
 - [Null Byte](https://www.youtube.com/c/NullByteWHT)
