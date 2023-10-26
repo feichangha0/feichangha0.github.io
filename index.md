@@ -221,7 +221,6 @@
 ## unsorted
 
 - 0x1.gitlab.io/code/CyberChef - string conversion, encoding/decoding
-- meta-webtools.com - online ip tools, converters, generators (RIP?)
 - base64decode.org
 - haveibeenpwned.com
 - dehashed.com
@@ -236,9 +235,11 @@
 - ransomwatch.telemetry.ltd
 - ransomlook.io
 - dark.fail
+- dread-onion.com
 - darknetlive.com
 - onion.live
 - stressthem.se - stresser
+- meta-webtools.com - online ip tools, converters, generators (RIP?)
 
 
 
