@@ -86,7 +86,7 @@
 
 
 
-## sandbox and analysis
+## sandbox, threat intel and analysis
 
 - any.run - online sandbox for urls and files(16MB), malware analysis
 - browserling.com - browser simulator
@@ -94,7 +94,11 @@
 - filescan.io
 - urlscan.io
 - bazaar.abuse.ch
--joesandbox.com
+- joesandbox.com
+- talosintelligence.com
+
+
+
 
 
 
