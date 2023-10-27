@@ -85,12 +85,6 @@
 - gpt.censys.io - censysGPT
 
 
-## threat intel
-
-- urlscan.io
-- bazaar.abuse.ch
-
-
 
 ## sandbox and analysis
 
@@ -98,6 +92,10 @@
 - browserling.com - browser simulator
 - virustotal.com - scan file(650MB)/url/hash, malware analysis
 - filescan.io
+- urlscan.io
+- bazaar.abuse.ch
+-joesandbox.com
+
 
 
 ## url shortening
