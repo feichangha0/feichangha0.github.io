@@ -46,6 +46,8 @@
 - bugmenot.com - usernames+password combos for various sites
 - thispersondoesnotexist.com - fake profile picture generator
 
+
+
 ### email services
 
 - protonmail.com
@@ -96,9 +98,6 @@
 - bazaar.abuse.ch
 - joesandbox.com
 - talosintelligence.com
-
-
-
 
 
 
@@ -242,12 +241,24 @@
 - maldevacademy.com - malware development courses, expensive af
 - ransomwatch.telemetry.ltd
 - ransomlook.io
-- dark.fail
-- dread-onion.com
-- darknetlive.com
-- onion.live
 - stressthem.se - stresser
 - meta-webtools.com - online ip tools, converters, generators (RIP?)
+
+
+
+## onions - links and search
+
+- dark.fail
+- darknetlive.com/onions
+- onion.live
+- dread-onion.com
+- xmh57jrknzkhv6y3ls3ubitzfqnkrwxhopf5aygthi7d6rplyvk3noyd.onion - torch, search engine
+- juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion - ahmia, search engine
+- jaz45aabn5vkemy4jkg4mi4syheisqn2wn2n4fsuitpccdackjwxplad.onion - OnionLinks
+- thehiddenwiki.org
+- 5wvugn3zqfbianszhldcqz2u7ulj3xex6i3ha3c5znpgdcnqzn24nnid.onion - hidden wiki
+- zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion - hidden wiki
+- bj5hp4onm4tvpdb5rzf4zsbwoons67jnastvuxefe4s3v7kupjhgh6qd.onion - yet another hidden wiki
 
 
 
