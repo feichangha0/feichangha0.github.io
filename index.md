@@ -1,4 +1,4 @@
-## creme de la creme
+## good stuff
 
 - github.com/sindresorhus/awesome - awesome lists
 - github.com/0xsyr0/Awesome-Cybersecurity-Handbooks - security handbooks
