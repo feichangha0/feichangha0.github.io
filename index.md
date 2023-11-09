@@ -207,6 +207,7 @@
 - [Tech69](https://www.youtube.com/c/Tech69YT)
 - [zSecurity](https://www.youtube.com/c/zSecurity)
 - [John Hammond](https://www.youtube.com/c/JohnHammond010)
+- [Joseph Delgadillo](https://www.youtube.com/@JosephDelgadillo)
 - [Guided Hacking](https://www.youtube.com/@GuidedHacking)
 - [Mental Outlaw](https://www.youtube.com/@MentalOutlaw)
 - [Louis Rossman](https://www.youtube.com/@rossmanngroup)
