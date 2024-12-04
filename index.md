@@ -145,7 +145,7 @@
 - raidforums.com - (RIP)
 - breached.co - breached forums, raidforums' successor (RIP)
 - exposed.vc - exposeforums, the new breached forums? (RIP?)
-- breachforums.is - breached forums V2
+- breachforums.is - breached forums V2 (RIP)
 - hackforums.net
 - demonforums.net
 - nulled.to
