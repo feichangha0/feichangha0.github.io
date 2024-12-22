@@ -247,6 +247,8 @@
 - rankvise.com/webtools - online tools
 - toffeeshare.com
 - grayhatwarfare.com - find shit in public buckets or something
+- wifimap.io - find wifi spots anywhere
+- dnspy.org - open source debugger & assembly editor (try this tool)
 
 
 
