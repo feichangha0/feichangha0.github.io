@@ -250,6 +250,9 @@
 - grayhatwarfare.com - find shit in public buckets or something
 - wifimap.io - find wifi spots anywhere
 - dnspy.org - open source debugger & assembly editor (try this tool)
+- tiiny.host
+- archive.md
+- 12ft.io
 
 
 
@@ -279,3 +282,11 @@
 - code-projects.org - open source projects and tutorials
 - freecodecamp.org/news/here-are-380-ivy-league-courses-you-can-take-online-right-now-for-free-9b3ffcbd7b8c/ - free courses
 - learntech.co.il/toolscatalogue (hebrew) - a list of tools
+
+## ai
+- chatgpt.com
+- perplexity.ai
+- github.com/copilot
+- cursor.com
+- claude.ai
+- unstuckstudy.com
