@@ -149,11 +149,12 @@
 - hackforums.net
 - demonforums.net
 - nulled.to
-- onniforums.com - needs testing
-- ransomed.vc - needs testing
-- cracked.io - needs testing
-- exploit.in - needs testing (russian)
+- onniforums.com
+- ransomed.vc
+- cracked.io
+- exploit.in
 - xss.is (russian)
+- ramp4u.io
 - ogusers.gg
 - mpgh.net - multiplayer game hacking
 - unknowncheats.me
