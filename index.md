@@ -295,3 +295,4 @@
 - leonardo.ai
 - github.com/iperov/DeepFaceLab
 - github.com/iperov/DeepFaceLive
+- powerusers.ai
