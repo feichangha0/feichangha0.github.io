@@ -282,6 +282,7 @@
 - code-projects.org - open source projects and tutorials
 - freecodecamp.org/news/here-are-380-ivy-league-courses-you-can-take-online-right-now-for-free-9b3ffcbd7b8c/ - free courses
 - learntech.co.il/toolscatalogue (hebrew) - a list of tools
+- web.archive.org/web/20220104163008/https://www.xmind.net/m/5dypm8/ - AD pentesting mindmap
 
 ## ai
 - chatgpt.com
