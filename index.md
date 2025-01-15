@@ -290,3 +290,6 @@
 - cursor.com
 - claude.ai
 - unstuckstudy.com
+- leonardo.ai
+- github.com/iperov/DeepFaceLab
+- github.com/iperov/DeepFaceLive
