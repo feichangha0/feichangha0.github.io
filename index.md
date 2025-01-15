@@ -1,12 +1,6 @@
-## good stuff
-
 - github.com/sindresorhus/awesome - awesome lists
 - github.com/0xsyr0/Awesome-Cybersecurity-Handbooks - security handbooks
 - github.com/A-poc/RedTeam-Tools
-
-
-
-## hax tutorials
 
 - pwnwiki.io
 - github.com/carlospolop/hacktricks OR book.hacktricks.xyz - a hacking bible
@@ -62,6 +56,7 @@
 - mailnesia.com
 - tutanota.com
 - skiff.com
+- cock.li
 
 
 
@@ -274,6 +269,7 @@
 
 
 ## bookmarks
+
 - medium.com/automationmaster/how-to-forward-my-local-port-to-public-using-serveo-4979f352a3bf
 - isecom.org/OSSTMM.3.pdf - Open Source Security Testing Methodolody Manual
 - attack.mitre.org - mitre attack matrix
@@ -285,7 +281,10 @@
 - learntech.co.il/toolscatalogue (hebrew) - a list of tools
 - web.archive.org/web/20220104163008/https://www.xmind.net/m/5dypm8/ - AD pentesting mindmap
 
+
+
 ## ai
+
 - chatgpt.com
 - perplexity.ai
 - github.com/copilot
