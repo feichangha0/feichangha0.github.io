@@ -196,6 +196,7 @@
 - cyber-eliya.com (hebrew)
 - packetstormsecurity.com
 - phrack.org
+- medium.com/@1200km
 
 
 
