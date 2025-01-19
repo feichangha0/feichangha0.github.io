@@ -198,6 +198,7 @@
 ## channels
 
 - [Hackersploit](https://www.youtube.com/c/HackerSploit)
+- [Computerphile](https://www.youtube.com/@Computerphile)
 - [LiveOverflow](https://www.youtube.com/c/LiveOverflow)
 - [IppSec](https://www.youtube.com/@ippsec)
 - [Null Byte](https://www.youtube.com/c/NullByteWHT)
