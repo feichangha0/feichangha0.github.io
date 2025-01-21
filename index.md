@@ -178,6 +178,10 @@
 - overthewire.org
 - pythonchallenge.com
 
+### reverse engineering challenges
+- crackmes.one
+- challenges.re
+
 
 
 ## blogs
