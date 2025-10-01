@@ -239,6 +239,8 @@
 - opendns.com - dns servers `208.67.222.222` `208.67.220.220`
 - freenom.com - free domains? also dns servers
 - vx-underground.org - collection of malware source code, samples, and papers
+- github.com/ytisf/theZoo - collection of malware binaries + source
+- zeltser.com/malware-sample-sources - sources for finding malware samples
 - spoofbox.com - call from a spoofed number
 - search.0t.rocks
 - maldevacademy.com - malware development courses, expensive af
