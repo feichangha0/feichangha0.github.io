@@ -256,6 +256,7 @@
 - tiiny.host
 - archive.md
 - 12ft.io
+- malapi.io - windows apis often used for malicious purposes
 
 
 
